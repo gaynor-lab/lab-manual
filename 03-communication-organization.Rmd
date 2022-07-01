@@ -1,0 +1,17 @@
+# Lab communication and organization {#communication}
+
+## Communication channels
+
+### Regular meetings
+
+### E-mail
+
+### Slack
+
+### Google Drive
+
+### GitHub
+
+## Data and code management
+
+### Resources for learning R
