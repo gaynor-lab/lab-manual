@@ -22,7 +22,7 @@ The Gaynor Lab at the University of British Columbia is based in the Departments
 
 This lab manual is a living document, and is meant to provide a central place for current and future members of the Gaynor Lab to access information about our policies, expectations, and collaboration and research practices. 
 
-<a align="left" href="https://github.com/gaynor-lab/lab-manual/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a> < link to this book's GitHub repository
+<a align="left" href="https://github.com/gaynor-lab/lab-manual/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a> <- link to this book's GitHub repository
 
 
 #### Acknowledgements {-}
