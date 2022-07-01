@@ -1,0 +1,88 @@
+# Fieldwork {#fieldwork}
+
+![](img/fieldwork.png)
+
+For some members of the Gaynor Lab, fieldwork will be an important component of research. This page is created to share information and expectations regarding local and international fieldwork, and will grow as our members begin to work in additional field sites. Please update this page with the most recent information as you prepare and complete your field seasons.
+
+## Field safety
+
+Physical and emotional safety is paramount in the field. If you ever feel unsafe, please try to leave the situation and contact Kaitlyn immediately. We'll have a more detailed safety protocol in place here before anybody in the lab begins fieldwork.
+
+### Field safety plans
+
+You must complete a travel and field safety form to be approved through UBC. The lab has yet to create one, but Kaitlyn will be doing this in advance of our first field season in 2023, and we can then reuse within our group.
+
+### First aid
+
+All lab members are strongly encouraged to complete a wilderness first aid course prior to their first field season. Kaitlyn can cover the expenses of this course, and as we gather more information on offerings at UBC and in Vancouver, let's update this section of the manual.
+
+
+## Gorongosa National Park, Mozambique
+
+Some members of the Gaynor Lab will be working in Gorongosa National Park, or Parque Nacional da Gorongosa, in central Mozambique, where Kaitlyn has been working here since 2015. This section of the lab manual will serve to provide guidance and share knowledge about logistics in the park.
+
+### Logistics
+
+As you begin to plan your field season, ask Kaitlyn to put you in touch with the Gorongosa National Park Research Manager, Miguel Lajas. Miguel will share research permit forms and provide a document with the latest information for visiting researchers about accommodation, meals, transport, recommended packing lists, and other logistics. We will also maintain a copy of this document in the Gaynor Lab Google Drive. The information below is meant to supplement the park guide.
+
+#### Travel {-}
+
+You should plan to fly into the Beira airport (BEW). The park will arrange for your transport to Chitengo, the park headquarters, by road (~5 hours) or small aircraft (~30 minutes). If you have >20kg of luggage, your luggage will need to be transferred by road, so let the park know when you arrange for your transfer. You should plan for road transfer in one of your first visits to the park (perhaps on the way home, when you aren't yet so travel-weary!), to better understand the local context.
+
+#### Visas {-}
+
+You will likely need to obtain a visa at the Mozambican consulate in Canada in advance of your travels. At times, these visas have been issued for 90 days, but lately they are limited to 30, requiring you to leave and re-enter the country from Zimbabwe or South Africa. Sometimes you will be issued a tourist visa, and other times a business visa. In all cases, you should obtain an official letter from Gorongosa National Park inviting you to visit (Miguel can help you with this). Kaitlyn has recently had success getting a visa at the Beira airport (in 2022) with an official invitation letter from the government (secured by the park) but this was not previously possible. 
+
+It is your responsibility to make sure you get an appropriate visa and do not overstay it (the fees will be large!) In summary, visa regulations have changed considerably over the years, so ask your labmates and ask Miguel to put you in touch with researchers who have recently navigated the process. And update this manual with your experiences!
+
+#### Doing fieldwork {-}
+
+Our lab field vehicle will be a Toyota Land Cruiser. To conduct independent fieldwork, you will need to have a driver’s license, be comfortable driving a 4WD manual right-side-drive vehicle in muddy and rugged conditions with unpredictable wildlife, and to know the basics of changing a tyre and checking fluids. You can learn some of these skills in the field as needed (Kaitlyn did!) and will need to demonstrate your driving abilities to Scientific Services staff prior to being cleared to drive on your own. 
+
+You must be accompanied by a ranger (“fiscal” in Portuguese) and take a radio with you into the field (both provided by Scientific Services).
+
+
+#### Equipment {-}
+
+It is very difficult to procure research materials once you are in the field, so bring plenty of anything you think you may need (e.g., flagging tape, Ziploc bags, Sharpies) 
+
+The avenues for purchasing research equipment are as follows:
+
++ *Through the park's procurement system.* The park uses a consolidator in South Africa, and orders are bundled and shipped to the park via the land border (so allow several months to receive your order). We use this route for purchasing camera traps, batteries, and computers
++ *In your luggage.* You should be prepared to held up by customs officers and asked to pay customs fees (~20%) at the airport. If you plan to fly with equipment, please communicate with Miguel at least a month before your trip (instructions will be in the information he sents), as they may be able to make arrangements in advance with customs officials in Beira. Note that there have been a couple of instances of luggage containing expensive equipment mysteriously disappearing during transfer in JNB, so take care.
++ *Shipments via DHL.* This may take a very long time, and may get held up at customs, so is the least desirable option.
+
+You may store research equipment in the visiting researcher storage room at the lab in Chitengo, within reason. Please label all equipment, and keep an inventory of everything that you leave behind in the Gaynor Lab Google Drive folder so that we can keep track of what we have in the field.
+
+
+#### Travel preparation {-}
+
+Ensure that you are up-to-date with recommended vaccinations and plan to get a prescription for malaria prophylaxis. 
+
+You may be able to purchase and activate an eSIM card for Mozambique in advance of your travels. Movitel has the best coverage in the park. 
+
+Wireless Internet speeds are adequate in Chitengo for most purposes, although you should be prepared for unexpected outages and slow-downs. Social media is blocked during the day, to facilitate work. 
+
+ATMs in the Beira airport are the easiest way to draw Mozambican currency (meticais). Millenium Bank in Vila Gorongosa has ATMs where international debit cards work, and US Dollars, Rand, and Euros can be exchanged in Beira and Chimoio. Alert your bank ahead of travel so that your account is not frozen for suspicious activity.
+
+
+### Expectations of engagement
+
+All lab members should be prepared for respectful, challenging, and important conversations about parachute/helicopter science and the colonial legacies of conservation and research in Africa. Through these conversations and associated actions, we can continue to learn from each other and our colleagues in Mozambique about how to best engage.
+
+#### Learning Portuguese {-}
+
+All lab members working in Mozambique should learn to speak Portuguese conversationally. You can get by at the field station with English, but knowledge of elementary Portuguese will facilitate engagement of local interns, students, and park staff in your research. You will be supported in your efforts to learn Portuguese through coursework at UBC or external courses, and we will practice our language skills as a lab! 
+
+#### Local partnerships {-}
+
+All members of the Gaynor Lab should plan to partner with Mozambican researchers in the course of their research, both in PNG and beyond. For PhD students, you should expect to have a conversation with Kaitlyn and the Gorongosa MSc program director about how you might co-develop your thesis research alongside a Mozambican MSc student. Such a partnership will have many co-benefits in terms of sharing resources, data, skills, ideas, and perspectives. For all lab members, inquire about opportunities to work with interns in the EO Wilson lab during your fieldwork, or to hire local high school graduates. For more advanced lab members, consider co-teaching a workshop or MSc course, either with Kaitlyn or other instructors.
+
+#### Exploring the context {-}
+
+The research station at Chitengo can feel isolated from the surrounding community context. All lab members are encouraged and expected to seek out opportunities to get out of the park and meet the people living in and around it. This may come at the expense of data collection, but it will provide important perspective and a much-needed break from the field station bubble. Go to the market in Vila, get a ride to the Shoprite in Chimoio, go home for a weekend with your Mozambican colleagues, visit the mountain, sit in on activities at the CEC, take the boat to Vinho, and opt for a road transfer from Beira rather than air transfer in one of your first field seasons. Close partnership with Mozambican researchers and knowledge of Portuguese will facilitate this type of exploration (see above). 
+
+
+
+
+

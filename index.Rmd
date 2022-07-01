@@ -1,24 +1,30 @@
 --- 
 title: "Gaynor Lab Manual"
-author: "Kaitlyn Gaynor"
-date: "`r Sys.Date()`"
+subtitle: "Policies, expectations, and guidance for members of our research group at UBC"
+author: "Authored by Kaitlyn Gaynor"
+date: "Updated `r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+# cover-image: images/logo/logo-rstudio4edu.png
 github-repo: openscapes/series
 description: "Manual for the Gaynor Lab at UBC."
 ---
 
-# Welcome {-}
+# Welcome! {-}
 
-Put something here
+![](img/floodplain.jpg)
 
-## Land acknowledgement
+The Gaynor Lab at the University of British Columbia is based in the Departments of [Zoology](https://www.zoology.ubc.ca) and [Botany](https://botany.ubc.ca), and affiliated with the [Biodiversity Research Centre (BRC)](https://biodiversity.ubc.ca) and the [Interdisciplinary Biodiversity Solutions (IBioS)](https://ibios.ubc.ca) cluster. Our research examines the effects of human activity on global biodiversity, with emphases on (1) the behavioral responses of animals to human presence, (2) the effects of anthropogenic disturbance on predator-prey and other species interactions, and (3) the socio-ecological dynamics of conservation and coexistence. You can read more about our research group on the [Gaynor Lab website](https://gaynorlab.weebly.com).
+
+This lab manual is a living document, and is meant to provide a central place for current and future members of the Gaynor Lab to access information about our policies, expectations, and collaboration and research practices. 
+
+#### Acknowledgements {-}
 
 The University of British Columbia Vancouver campus is situated on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam).
 
-
+Much of the content in this lab manual came from other public manuals, including the [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/), [Pinsky Lab](https://github.com/pinskylab), and [Bahlai Lab](https://github.com/BahlaiLab), and expectation documents from Somayeh Dodge (University of California Santa Barbara), Briana Abrahms (University of Washington), and Jerod Merkle (University of Wyoming).
 

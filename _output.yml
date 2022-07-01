@@ -1,16 +1,11 @@
 bookdown::gitbook:
   css:
-    - lib/css/bootstrap.min.css
-    - lib/css/style.css
-    - lib/css/lesson.css
+   # - lib/css/bootstrap.min.css
+    - assets/style.css
+   # - lib/css/lesson.css
   includes:
   config:
     toc:
       before: |
         <li><a href="./">Gaynor Lab Manual</a></li>
     download: ["pdf"]
-#bookdown::pdf_book:
-#  includes:
-#    in_header: _preamble.tex
-#  latex_engine: xelatex
-#  keep_tex: no
