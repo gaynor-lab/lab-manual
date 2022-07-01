@@ -1,5 +1,1 @@
-# bookdown-tutorial
-Mini tutorial for bookdown 
-
-
-afdafadjl
+This bookdown document is intended to be used for incoming, current, and outgoing members of the Gaynor Lab group. If we missed anything, please let Kaitlyn Gaynor (gaynor@zoology.ubc.ca) know. You can also do a pull request and I will review the changes—this is meant to be a living document and will evolve with the group!
