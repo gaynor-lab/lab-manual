@@ -1,14 +1,15 @@
 book_filename: "series"
 language:
   ui:
-    chapter_name: "Part "
+    chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
-  "01-lab-philosophy.Rmd",
-  "02-individual-expectations.Rmd",
-  "03-communication-organization.Rmd",
-  "04-research-practices.Rmd",
-  "05-ubc-logistics.Rmd",
-  "06-fieldwork.Rmd"]
+  "lab-philosophy.Rmd",
+  "advising-mentorship.Rmd",
+  "individual-expectations.Rmd",
+  "communication-organization.Rmd",
+  "research-practices.Rmd",
+  "ubc-logistics.Rmd",
+  "fieldwork.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"

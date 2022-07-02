@@ -1,0 +1,68 @@
+# Advising and mentorship {#advising}
+
+## NSERC mentorship statement
+
+*This is the mentorship statement that I (Kaitlyn) wrote as part of the application for the 2022 NSERC Discovery Grant that funds our work. I share it here so that all lab members know where I am coming from:*
+
+Once students are in my group, I will adopt an individualized approach to mentoring. Through Individualized Mentoring Plans, I will help students articulate their own measurable and achievable goals and areas for improvement each year, and we will review these plans at the start of each term. I will maintain open lines of communication and check in on progress in weekly 30-minute meetings to hold lab members accountable to themselves, rather than to me, and to ensure that their experience at UBC best prepares them for their desired career.
+
+The mentor-mentee relationship must be grounded in mutual respect. I keep an open mind and appreciate the diverse ways of knowing that trainees bring to the table. I will regularly clarify mutual expectations so we are on the same page on subjects such as communication, feedback on materials, and funding. While fostering this mutual respect, I will respect boundaries and acknowledge the power dynamics inherent to the relationship.
+
+I will help students to build confidence and skills to meet their goals, including diverse and tailored skill sets in research, science communication, data science, and outreach. I will empower students to take ownership of their work, and cultivate a culture that applauds risk­taking and normalizes failure. Furthermore, it is important to help students not only navigate systems but help them to change them, particularly for students from historically-excluded groups, and I plan to support them in their efforts to make our departments at UBC more inclusive. I also recognize that some students face identity prejudice in the field, which can place them in unsafe and uncomfortable positions, and I will create guidance for fieldwork that promotes safety and belonging.
+
+To advance research and training goals, I will foster community and belonging among the research group so that students can lean on each other for support, and not feel that they are competing for my attention or resources. We will share responsibilities for organizing weekly lab meetings, annual lab retreats, collaborative research projects, social events, and lab logistics, and co-create a lab code of conduct to ensure our work and culture are inclusive, feminist, and anti­racist. Students from equity-seeking groups at UBC report less positive experiences, and I will make efforts to align the goals of my research group with those identified in the 2018 UBC Inclusion Action Plan (e.g., develop flexible research practices to accommodate diverse needs; build capacity through skills training; recognize and incentivize DEI activities). I recognize that I will not share all of the same life experiences and challenges as the members of my group, and will therefore encourage students to connect with others in the departments and community for support (e.g., EDI for Trainees in Zoology, UBC Equity and Inclusion Office).
+
+Within my research group and larger communities at UBC, I will promote self­education and conversation around difficult topics related to justice, equity, and inclusion. There are also small but important steps that I will take to create an inclusive culture, including indigenous land acknowledgements, pronoun sharing, and the creation of accessible learning materials and infrastructure. Part of creating an inclusive culture starts with bringing our full selves to the table, and talking about how our identities shape our positionality as researchers and our experiences working with agencies and stakeholders.
+
+
+## Individual mentoring plans
+
+Within the first few weeks of joining the Gaynor Lab, you should work with Kaitlyn to develop a plan outlining your short, medium, and long term goals. This is a useful planning document that assists in aligning expectations. Each lab member will revisit the mentoring plan during an individual meeting with Kaitlyn at the beginning of each semester.
+
+A template for these, with thanks to [`@duffy_ma`](https://twitter.com/duffy_ma) can be found [here](https://docs.google.com/document/d/1ie3nc6iqW5cWit_MV8BUIVmREbvUZ8b0P9dR8CGgleQ/edit?usp=sharing).
+*Kaitlyn - to create new template*
+
+In addition to these individualized plans, which will guide specific self-defined expectations, Chapter \@ref(expectations) clarifies expectations for all lab members in their interactions with Kaitlyn.
+
+### For undergraduate lab members
+
+You may be working most closely with a graduate student or postdoc in the Gaynor Lab, in which case they will be your primary source of contact. You should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.  
+
+Always feel like you can reach out to both [Kaitlyn](mailto:gaynor@zoology.ubc.ca) as lab PI. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.
+
+
+## UBC expectations
+
+UBC has outlined [detailed guidance](https://responsible.research.ubc.ca/foundations/mentorship-supervision) for mentorship and supervision, including the following expectations for supervisors of graduate students. More details about Gaynor Lab policies on the points below can be found elsewhere in this manual, as linked below.
+
+As your supervisor, you can expect me to:
+
++ Demonstrate commitment to your research and educational program, and offer stimulation, respectful support, constructive criticism, and consistent encouragement.
++ Assist with identification of a research topic that is suitable for you and manageable within the scope of your degree.
++ Have sufficient familiarity with your field of research to provide guidance as a supervisor.
++ Assist you in gaining access to required facilities or research materials for your projects.
++ Discuss your financial support issues and assist with scholarship applications and/or providing advice on academic employment opportunities.
++ Provide guidance in the ethical conduct of research and model research integrity.
++ Discuss with you the implications of engaging with activities/work unrelated to your thesis topic.
++ Provide information about my availability for meetings and expectations about preparation for meetings. 
++ Assist you in planning your research program, setting a time frame, and adhering as much as possible to the schedule.  
++ Encourage you to finish up when it would not be in your best interest to stay longer.
++ Be accessible for consultation and discussion of your academic progress and research at a minimum of once a term.
++ Minimize my expectations for activities/work that may interfere with your thesis completion.
++ Institute a supervisory committee (with appropriate input from you) and prepare for committee meetings, which will occur on a regular basis (at least once a year) to review your progress and provide guidance for your future work.
++ Support you in your preparation for the comprehensive examination and admission to candidacy which will be completed within 36 months of program initiation.
++ Act as a resource about managing program requirements, deadlines, etc.
++ Attend your presentations in appropriate venues and join in associated discussion.
++ Submit recommendations for external examiners and university examiners for the doctoral dissertation within the time frames required by the Faculty of Graduate and Postdoctoral Studies.
++ Acknowledge your contributions, when appropriate, in published material and oral presentations in accordance with good scholarly practice and the University of British Columbia scholarly integrity policies.
++ Provide reasonable expectations about work day hours and vacation time in accordance with University of British Columbia policies.  
++ Clarify my preferred style of communication with students about areas, such as student independence, approaches to conflict, direct questioning, and mentoring.
++ Explain my expectations for mode of address, professional behaviour (e.g. punctuality), when to seek assistance, response to constructive criticism, and academic performance expectations.
++ Assist you to overcome any cultural difficulties with norms and expectations. 
++ Respond thoroughly (with constructive suggestions for improvement) and in a timely fashion to submitted, written work.
++ Promote a research environment that is safe and free from harassment.
++ Assist in managing conflict or differences among members of the supervisory committee.
++ Make arrangements to ensure adequate supervision if I am absent for extended periods, e.g. more than a month.
++ Encourage you to present your research results within and outside the University.
++ Provide mentoring in academic writing.
++ Provide advice and mentorship with respect to career opportunities, which may be assisted by resources, skills, professional development, and other avenues.
