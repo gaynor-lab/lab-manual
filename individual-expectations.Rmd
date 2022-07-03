@@ -9,13 +9,17 @@ All lab members are responsible for keeping on top of paperwork related to their
 
 Graduate students are responsible for degree progress. This means you need to stay on top of program and university deadlines, requirements, etc. Before registering for courses each term, meet with Kaitlyn to discuss your plans.
 
-## Research output
+Resources:
 
-level of research independence vary by level - increasingly independent from undergraduate to MSc to PhD to postdoctoral researchers
++ [Zoology Graduate Student Handbook](https://www.zoology.ubc.ca/system/files/assets/media-file/file/2022-03/New%20Handbook%202022_March.pdf)
+
+## Research
+
+The level of independence of lab members in research development will vary according to position, with increasing independence from undergraduate to MSc to PhD to postdocs, and will increase over the course of an individual's time in the lab. 
+
+For all graduate students and postdocs, it is expected that research is your top priority during your time in the Gaynor Lab. In addition to following our lab research practices (Chapter \@ref(research)), you should plan to publish your work in peer-reviewed journals and present it at scientific conferences. Communication of your approach and findings is an essential step in the scientific process.
 
 ### Publication
-
-Publication in peer-reviewed journals is an important part of the scientific research process. 
 
 Graduate students are expected to submit half of their chapters to peer-reviewed journals prior to sign-off on their thesis. For PhD students, the expectation is that you submit one chapter to both your committee and a peer-reviewed publication within the first 3.5 years in the program, and a second within the first 5.
 
@@ -28,26 +32,52 @@ When you leave the lab, make a plan with Kaitlyn for the timeline and process of
 
 Members of the Gaynor Lab are expected to share our research at local, national, and international meetings. We will share information with each other on upcoming conferences, and provide feedback on drafts of posters and presentations in lab meeting.
 
-Kaitlyn aims to provide financial support for lab members to attend conferences annually, dependent on the availability of funding, and all lab members should seek external funding as well.
+To ensure that we are on the same page when sharing in-progress work with the public and with the scientific community, you should clear any abstracts and slideshows with Kaitlyn and other co-authors. Ideally, you'll give a practice presentation in a lab meeting, too!
+
+Kaitlyn aims to provide financial support for lab members to attend and present at conferences annually, dependent on the availability of funding. All lab members are expected to seek external conference travel funding as well, so that the lab funds can go further.
+
+### Authorship policy
+
+In our collaborative work, the person who makes significant intellectual contributions (in terms of conceiving the original idea, method development, experiment design, analysis) or contributes more than 50% to the written manuscript will be the first author.
+
+Shared first authorship may be an option in some circumstances: for example, when projects are truly co-developed and done equally, or when leadership of a project is handed off from one lab member to another upon leaving the group. However, graduate students should plan to be the sole first author on any papers that arise from thesis chapters.
+
+Co-authorship on a paper can be earned through substantial intellectual contribution (e.g., development of ideas, interpretation of results) or contribution to data collection, analysis, and/or writing. Contribution of data alone does not usually merit authorship, but data contributors should be given the opportunity to be co-authors by providing additional contributions. All coauthors should be involved in the writing process by giving feedback on drafts.
+
+If you are leading a project that is facilitated by undergraduate researchers and/or field technicians, you are encouraged to provide these individuals with the opportunity to contribute intellectually to the project and earn co-authorship.
+
+It is likely that Kaitlyn will be the last (senior) author on most publications led by lab members for research that is primarily conducted while you are in the lab. However, like all co-authors, Kaitlyn should earn this authorship position! For papers on which you are the first author and Kaitlyn is last author, the two of you should plan to make collective decisions about the authorship of others.
+
+In general, discuss authorship with your colleagues early in the collaboration process, to ensure alignment of expectations and a positive working relationship. The invitation of co-authorship should be made explicitly and in writing.
+
+As always, feel free to ask Kaitlyn if you have any concerns or questions about authorship, either of work that you are leading or work on which you expect to be a coauthor. There are many gray areas and unique cases.
 
 ## Funding
 
-All lab members are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs.
+All lab members are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. As a general rule, all graduate students should apply for at least one grant or fellowship every year. 
 
-As a general rule, all graduate students should apply for at least one grant or fellowship every year. 
+For graduate students, we will use lab funds (GRAs) to top up salaries or replace TA-ing when possible, based on availability and satisfactory progress towards degree. Lab funds should be considered a last resort, after fellowships or other funding opportunities have been exhausted. If you are funded from lab grants and contracts, you may need to be flexible in your research and adjust the topic to better align with the current grants/contracts that we have in the lab.
 
-Graduating students and postdoctoral researchers are encouraged to apply for funding to support their next steps.
+Tuition is the student’s responsibility and it is not part of any funding package to pay tuition from lab research funds. The Gaynor Lab will have a minimum salary that is higher than the departmental minimums, to accommodate tuition costs. 
 
-Collaboration and independence
+Graduating students and postdoctoral researchers are also encouraged to apply for funding to support their next steps.
 
 
 ## Community engagement
 
-### Service
+### Service and outreach
 
-x
+All members of the Gaynor Lab should dedicate time to serving our communities—the lab, the departments, the university, the scientific community, and the other communities of which we are a part. Creating and giving back to community is important in building and maintaining relationships, and can also help to hone leadership and professional development skills.
 
-### Peer support
+This service will look different for each lab member, and ideally should align with the goals that are articulated in Individual Development plans. For example, your service may be oriented towards equity and justice work, event planning, science communication, capacity building, etc. We will support each other in our service work and ensure that this work is recognized and valued.
+
+Everybody should recognize that service burdens fall disproportionately on members of underrepresented groups. We should consider how our individual identities may shape the way that we approach service responsibilities and adjust our approaches accordingly. 
+
+If service work is being done at the expense of satisfactory progress towards degrees and/or research, Kaitlyn will reach out to initiate a conversation about how to best balance responsibilities to align with your goals.
+
+### Responsibilities to lab
+
+Within the Gaynor Lab, we will assign each individual rotating roles annually, so that we share responsibilities and investment in our research group. These responsibilities may include organizing lab meetings, maintaining the lab website and manual, cleaning physical lab space, etc.
 
 Everybody in the Gaynor Lab should seek to provide mentorship, technical support, and assistance to other lab members, especially more senior members of the group.
 
@@ -73,7 +103,16 @@ For graduate students and postdocs, plan to spend 40 hours/week on research, tea
 
 ### Vacation
 
-note here
+Graduate students may take 15 weekdays of vacation, as per [UBC policy](https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy). You are not expected to be engaged in research or in communication with the lab while you are on vacation.
 
+There is no formal system for tracking vacation, but you should let Kaitlyn know when you will be out of the office for longer than 1 day. When possible, try to align your vacations with university holiday periods (this may be necessary if you are taking or teaching courses). Please set up out-of-office notifications on e-mail and Slack.
 
+## Research integrity
 
+Mistakes happen. For example, you may make a coding error that accidentally changes your findings. It is always best to bring up this mistakes as soon as you recognize them, so that we can collectively decide how to proceed. 
+
+As a group, we should aim to reduce errors through data quality control checks, peer review of code among lab members, and frequently asking questions of each other when we are uncertain about data or methodology.
+
+Under no circumstances should you fabricate data or manipulate research to obtain a certain result. If you are feeling any pressure to do so in order to make satisfactory progress, or have begun to go down this path and are having second thoughts, please talk to Kaitlyn immediately. 
+
+This is (hopefully!) unlikely to be an issue in our research group, but should it come to light that you are engaging in dishonest research practices and hiding them from the group, there may be disciplinary action through UBC. This violation of trust will likely mean the end of your time in the Gaynor Lab.
