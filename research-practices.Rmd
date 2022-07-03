@@ -54,6 +54,14 @@ The [carpentries R lessons](https://datacarpentry.org/R-ecology-lesson/) are als
 
 ## Writing and reading practices
 
+### Writing process
+
+Everybody has their own writing process, and we won't micromanage each other, but there are a few principles and practices that will greatly facilitate the collaborative writing process.
+
+The Gaynor Lab is a safe environment for sharing drafts of in-progress material. You should share drafts of materials in an imperfect state! That said, don't waste your labmates' time with unreadable material.
+
+Before you commit to writing a chapter or manuscript, you should share an outline with Kaitlyn and other coauthors. This outline should include a breakdown of the topic of each paragraph, and ideally drafts (even hand-drawn!) of the key figures.
+
 ### Formats
 
 We won't micromanage individual writing processes, but Kaitlyn prefers to provide feedback in Microsoft Word (especially for longer pieces) or Google Docs
