@@ -13,13 +13,13 @@ for-undergraduate-lab-members
 ubc-expectations
 expectations
 ubc-requirements
-research-output
+research-products
 publication
 conferences
 funding
 community-engagement
-service
-peer-support
+service-and-outreach
+responsibilities-to-lab
 attendance-and-participation
 work-schedule
 work-hours
