@@ -60,3 +60,7 @@ first-aid
 gorongosa-national-park-mozambique
 logistics
 expectations-of-engagement
+authorship-policy
+research-integrity
+writing-process
+output-bookdowngitbook
