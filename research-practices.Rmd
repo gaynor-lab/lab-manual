@@ -74,6 +74,17 @@ Find a reference management system that works for you, if you don't already have
 We will likely use Zotero for shared group writing projects, as it is free and easy to use, but you may find another system you prefer for your own research.
 
 It is a good idea to develop a system for staying on top of the relevant literature in your field and subfields, which may include the following practices:
+
 + Set Google Scholar alerts for keywords or authors
 + Create an RSS feed for journals in your field
 + Subscribe to e-mail updates for journal tables of contents
+
+
+### Writing checklist
+
+Here are some things to check for in your writing. Please cross-check this list when sharing a near-finished draft of a document (paper, proposal, etc.) for lab review, or Kaitlyn will send you to this list!
+
++ Don't use the word "this" without qualifying what you are are talking about (or Kaitlyn will comment, "this WHAT"?)
++ Limit use of adverbs and "filler" words
++ Use active voice, rather than passive voice
+
