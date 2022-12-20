@@ -94,11 +94,3 @@ One way to do this is a personal website. This doesn't have to be extensive, but
 There are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many options are free.  
 
 Some options for creating sites include: GoogleSites, Weebly, Squarespace, WordPress, R Markdown, GitHub.  
-
-### Twitter
-
-Twitter is a great tool for interacting with others about your science. It is also a great platform for learning about new research and papers, finding out about jobs and fellowships, learning and discussing methods, discussing topics about how we do science, professional development, mental health and expectations around science and graduate school, and is a great venue for bringing ones whole self to the science. etc. 
-
-Twitter can also be a time sink and a major distraction, so be warned.
-
-
