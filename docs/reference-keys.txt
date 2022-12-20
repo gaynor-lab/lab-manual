@@ -64,3 +64,4 @@ authorship-policy
 research-integrity
 writing-process
 output-bookdowngitbook
+writing-checklist
