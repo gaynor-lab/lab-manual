@@ -87,4 +87,15 @@ Here are some things to check for in your writing. Please cross-check this list 
 + Don't use the word "this" without qualifying what you are are talking about (or Kaitlyn will comment, "this WHAT"?)
 + Limit use of adverbs and "filler" words
 + Use active voice, rather than passive voice
++ Be consistent in your use of tense
 
+## Writing peer reviews
+
+Peer review is an important part of science, and you will be given opportunities to jointly peer review manuscripts for scientific journals during your time in the Gaynor Lab. Writing peer reviews can help you to become a more thoughtful, engaged, and informed scientist, and lead to improvements in your own work while giving back to the scientific community and shedding light on the peer review process from the other side.
+
+Some good resources for peer review include:
+
++ [PLOS "How to Write a Peer Review"](https://plos.org/resource/how-to-write-a-peer-review/)
++ [Rebecca Sear, "Good Practices in Peer Review"](https://osf.io/aujs4)
++ [Brian Lucey, The Guardian, "Peer Review - How to Get It Right"](https://www.theguardian.com/higher-education-network/blog/2013/sep/27/peer-review-10-tips-research-paper)
++ [Jennifer Raff, "How to become good at peer review"](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/)
