@@ -4,7 +4,23 @@
 
 For some members of the Gaynor Lab, fieldwork will be an important component of research. This page is created to share information and expectations regarding local and international fieldwork, and will grow as our members begin to work in additional field sites. Please update this page with the most recent information as you prepare and complete your field seasons.
 
+## Planning
+
+You will need to carefully plan your fieldwork as part of your overall work plan. Well before embarking on field work you should prepare the following items and/or discuss them with Kaitlyn:
+
++ Objectives of field work
++ Proposed timing
++ Proposed budget (and sources of funds secured vs. needed). Can include range, e.g. from cheapest to dream budget
++ Permits: are permits required (e.g. from provincial/local governments? First Nations?)
++ Ethics: is an Animal Care or Human Ethics protocol required? (see below)
++ Safety: a field safety plan is required (see below)
++ Are there particular considerations regarding Equity, Diversity and Inclusion (including anti-racism, reconciliation, capacity-building)?
+
+As you are more than likely researching live wild animals (even if through non-invasive techniques) you will need to complete the UBC Animal Care protocols (or be included under an existing one for WildCo) and if you are also including human subjects, you will need to complete the Human Ethics protocol (which may be needed for public privacy in camera trap surveys, participant surveys, or engaging with communities). 
+
 ## Field safety
+
+[UBC Student Safety Abroad](https://safetyabroad.ubc.ca/) has some information that is relevant for people traveling abroad for fieldwork. If you are doing international fieldwork, you will need to register with UBC’s [Safety Registry](https://registry.safetyabroad.ubc.ca/). Depending on the country you are going to, there may be additional steps or forms you will need to take or fill out (e.g register with the Canadian government). Be sure to check the government page for travel advisories. The email for Safety Abroad is safety.abroad@ubc.ca. On campus, they are located in the UBC Life Building (1100-6138 Student Union Boulevard). 
 
 Physical and emotional safety is paramount in the field. If you ever feel unsafe, please try to leave the situation and contact Kaitlyn immediately. We'll have a more detailed safety protocol in place here before anybody in the lab begins fieldwork.
 
@@ -15,6 +31,16 @@ Prior to conducting any field research while affiliated with UBC, you must compl
 ### First aid
 
 All lab members are strongly encouraged to complete a wilderness first aid course prior to their first field season. Kaitlyn can cover the expenses of this course, and as we gather more information on offerings at UBC and in Vancouver, let's update this section of the manual.
+
+## Travel insurance & medical care
+
+UBC Health Insurance provides Travel Insurance, however, not all medication is covered (e.g. anti-malarial medication) and most travel vaccines are not covered. For detailed information about what may or may not be covered by your insurance plan, it is recommended that you check out the AMS Student Care website and to directly contact Student Health Services (1-877-795-4421). On campus, the address is AMS/GSS Care Office Room 3128, The Nest Building, 6133 University Boulevard.
+
+If you need medication or vaccines for travel to particular countries you can get these at a travel clinic. There are several located throughout Vancouver and you may need to call ahead for an appointment or to check that the vaccine you need is in stock at the clinic. 
+
+## Animal Care and Use
+
+You need to create an account on [UBC RISe (Research Information Systems)](https://www.rise.ubc.ca/) and complete the [ethics module](https://animalcare.ubc.ca/training/ccac-online-ethics). Talk to Kaitlyn about whether there is an existing ACUC protocol for your research project, to which you can be added, or whether you will need to submit a new one.
 
 
 ## Gorongosa National Park, Mozambique

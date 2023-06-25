@@ -6,13 +6,18 @@
 
 Welcome to the Gaynor Lab! In addition to the official UBC onboarding process (obtaining study/work permits, getting set up with payroll), which you should coordinate with the appropriate departmental staff members, here are some things that you should talk about Kaitlyn about doing when you arrive:
 
-+ Join the Gaynor Lab and Biodiversity Research Centre Slack organizations
++ Read through this lab manual!
++ Join the Gaynor Lab and Biodiversity Research Centre Slack organizations (ask Kaitlyn for an invite if needed)
 + Join the lab Google Drive
 + Join a shared Google Drive folder with Kaitlyn
 + Join the lab [GitHub organization](https://github.com/gaynor-lab)
 + Write your Individual Development Plan (Kaitlyn will share template and guidance)
 + Set up a regular meeting time with Kaitlyn
-+ Read through this lab manual
++ Get your [UBC card](https://ubccard.ubc.ca/)
++ Get your keys; if you are in the BRC or Ponderosa E, Katie Beall will order them for you, and you'll pick the up at the UBC bookstore
++ UBC offers access to software for students and staff. If you need MS Office, GIS, etc. you can download them [here](https://it.ubc.ca/services/desktop-print-services/software-licensing/list-software-available)
++ Set up a UBC Zoom account (will allow Zoom calls of unlimited duration... though one could argue about whether this is a "perk")
++ Complete any mandatory on-boarding courses on Workday
 
 ## Meetings
 
@@ -57,6 +62,19 @@ You should check your e-mail daily during the work week (M-F). If you do not exp
 
 Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times.   
 
+#### E-mail etiquette
+
+Borrowed from WildCo:
+
+Always remember to use a respectful tone and pay attention to proper spelling and grammar when communicating with others about your research. Start emails with a greeting (Dear Dr. So-and-So ...). There is a tendency to be informal in communications, but many of your mentors or senior colleagues may prefer somewhat more traditional communications -- why start off on the wrong foot? You can adapt to their style (and yours) as the conversation continues.
+
+Try to keep emails brief and to the point. What response do you need and by when?
+
+Be prepared to follow up on an email if you haven’t had a response in 1-2 weeks. Many people are overwhelmed with emails and simply can’t keep up, so a non-response likely reflects an oversight and people will be happy for a reminder. (Continued non-response after ~3 emails likely means the person is too busy to engage at this time. Try knocking on their door or calling their office if it is important.)
+
+If there is an action item or deadline associated with your email, make it very clear (e.g. bold, included in the first line or few).
+
+
 ### GitHub
 
 Use GitHub issues within the appropriate project repository for discussion of data management and analysis. This allows for an easily-searchable record of notes, decisions, and discussions that can be easily linked to specific code.
@@ -70,6 +88,8 @@ See more on the use of GitHub below.
 ### Slack
 
 We have a Gaynor Lab Slack organization, to be used for quick questions or topics for group discussion. Keep in mind that Slack does not have a permanent archive, and that GitHub is better for any project-related conversations for which an easily-searchable archive is preferable.
+
+New channels can be suggested/added as needed (but do not overload with public channels, new channels should be suggested to the lab and agreed upon by everyone).
 
 For non-time-sensitive questions for Kaitlyn, add them to your agenda for your weekly meeting and plan to discuss them in person, rather than using Slack. As a rule of thumb, if you have a quick question for Kaitlyn that she can answer from her phone on the bus, send it via Slack; if it will require more time, action, or thought, send it via e-mail.
 

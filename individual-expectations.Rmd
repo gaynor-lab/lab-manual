@@ -12,6 +12,7 @@ Graduate students are responsible for degree progress. This means you need to st
 Resources:
 
 + [Zoology Graduate Student Handbook](https://www.zoology.ubc.ca/system/files/assets/media-file/file/2022-03/New%20Handbook%202022_March.pdf)
++ [UBC Graduate Game Plan](https://www.grad.ubc.ca/current-students/professional-development/graduate-game-plan)
 
 ## Research
 
@@ -34,7 +35,9 @@ Members of the Gaynor Lab are expected to share our research at local, national,
 
 To ensure that we are on the same page when sharing in-progress work with the public and with the scientific community, you should clear any abstracts and slideshows with Kaitlyn and other co-authors. Ideally, you'll give a practice presentation in a lab meeting, too!
 
-Kaitlyn aims to provide financial support for lab members to attend and present at conferences annually, dependent on the availability of funding. All lab members are expected to seek external conference travel funding as well, so that the lab funds can go further.
+Discuss your conference interests with Kaitlyn, and prepare a budget and justification (what will you gain by participating, what will you be presenting?). It is our goal that everyone should be able to participate in at least one local or regional conference each year (e.g. BCTWS) and one national or international conference at least once during their degree.
+
+The Faculty of Graduate and Postdoctoral Studies gives graduate students up to $500 to reimburse travel costs through the [Graduate Student Travel Fund](https://www.grad.ubc.ca/awards/graduate-student-travel-research-dissemination-fund), once per degree program. Obtaining reimbursements may take up to 4-8 weeks during peak times. 
 
 ### Authorship policy
 
@@ -121,3 +124,10 @@ As a group, we should aim to reduce errors through data quality control checks, 
 Under no circumstances should you fabricate data or manipulate research to obtain a certain result. If you are feeling any pressure to do so in order to make satisfactory progress, or have begun to go down this path and are having second thoughts, please talk to Kaitlyn immediately. 
 
 This is (hopefully!) unlikely to be an issue in our research group, but should it come to light that you are engaging in dishonest research practices and hiding them from the group, there may be disciplinary action through UBC. This violation of trust will likely mean the end of your time in the Gaynor Lab.
+
+See UBC resources:
+
++ [UBC's Scholarly Integrity Policy](https://responsible.research.ubc.ca/about/scholarly-integrity-initiative/ubcs-scholarly-integrity-policy)
++ [UBC Academic Honesty & Standards](https://www.grad.ubc.ca/current-students/student-responsibilities/academic-honesty-standards)
++ [UBC Intellectual Property](https://www.grad.ubc.ca/current-students/student-responsibilities/intellectual-property)
++ [UBC avoiding Plagiarism](https://www.grad.ubc.ca/current-students/student-responsibilities/dealing-plagiarism)
