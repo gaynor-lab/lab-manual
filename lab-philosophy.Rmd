@@ -25,7 +25,7 @@ We are all learners, and most of our learning is done from each other. It is ine
 
 ##### Make yourself available {-}
 
-Be responsive to communication, and make time for things that address longer term goals, even when busy. For example, do not skip on things like attending seminars just because you have a big deadline looming. Note that being available does not mean that you are available 24/7 - this is not expected. Because as a group we value the role of collaboration and interaction in improving our work, it is typically expected that you be available in the lab/office during normal business hours for some time during the week. However, note that, for 2022-2023, remote work is fine given that we are spatially dispersed and that the COVID-19 pandemic is still underway.
+Be responsive to communication, and make time for things that address longer term goals, even when busy. For example, do not skip on things like attending seminars just because you have a big deadline looming. Note that being available does not mean that you are available 24/7 - this is not expected. Because as a group we value the role of collaboration and interaction in improving our work, it is typically expected that you be available in the lab/office during normal business hours for some time during the week.
 
 ##### Come prepared and be engaged {-}
 
@@ -71,21 +71,16 @@ Working as part of a team, we will often (always?) be building on work done by o
 
 A _Code of Conduct_ is a set of basic ground rules that we ask participants in lab spaces to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community. 
 
+This code of conduct applies to all Gaynor Lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.
+
 __We expect all lab members to adhere to the policies and guidelines outlined here.__  
 
-### Short version
-
-The Gaynor Lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.  
-
-This code of conduct applies to all Gaynor Lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.
 
 ### Longer version
 
-The Gaynor Lab is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of group members or others in our larger communities in any form. Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. [UBC](https://bullyingandharassment.ubc.ca) provides definitions and examples of bullying and harassment.  
+The Gaynor Lab is dedicated to providing a bullying-free and harassment-free experience for everyone, regardless of race, nationality, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, or religion. We do not tolerate bullying or harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.  
 
-This code of conduct applies to all Gaynor Lab spaces, including group and individual meetings (face to face and remote), workshops, social get togethers, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.  
-
-Some Gaynor Lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.  
+Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. [UBC](https://bullyingandharassment.ubc.ca) provides definitions and examples of bullying and harassment.  
 
 Harassment includes:  
 
@@ -112,6 +107,7 @@ The Gaynor Lab prioritizes marginalized people’s safety over privileged people
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 * Communicating in a ‘tone’ you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
 
 ### Reporting
 

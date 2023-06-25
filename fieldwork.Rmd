@@ -10,7 +10,7 @@ Physical and emotional safety is paramount in the field. If you ever feel unsafe
 
 ### Field safety plans
 
-You must complete a travel and field safety form to be approved through UBC. The lab has yet to create one, but Kaitlyn will be doing this in advance of our first field season in 2023, and we can then reuse within our group.
+Prior to conducting any field research while affiliated with UBC, you must complete a travel and field safety form to be approved through the Department of Zoology. Kaitlyn has drafted these in the past, and we can build on old versions, so talk to her prior to starting to writea plan.
 
 ### First aid
 
@@ -31,7 +31,9 @@ You should plan to fly into the Beira airport (BEW). The park will arrange for y
 
 #### Visas {-}
 
-You will likely need to obtain a visa at the Mozambican consulate in Canada in advance of your travels. At times, these visas have been issued for 90 days, but lately they are limited to 30, requiring you to leave and re-enter the country from Zimbabwe or South Africa. Sometimes you will be issued a tourist visa, and other times a business visa. In all cases, you should obtain an official letter from Gorongosa National Park inviting you to visit (Miguel can help you with this). Kaitlyn has recently had success getting a visa at the Beira airport (in 2022) with an official invitation letter from the government (secured by the park) but this was not previously possible. 
+You may need to obtain a visa at the Mozambican consulate in Canada in advance of your travels. At times, these visas have been issued for 90 days, but lately they are limited to 30, requiring you to leave and re-enter the country from Zimbabwe or South Africa. Sometimes you will be issued a tourist visa, and other times a business visa. In all cases, you should obtain an official letter from Gorongosa National Park inviting you to visit (Miguel can help you with this). 
+
+As of 2023, citizens of certain countries (including the United States) can obtain a visa upon arrival to the Beira airport.
 
 It is your responsibility to make sure you get an appropriate visa and do not overstay it (the fees will be large!) In summary, visa regulations have changed considerably over the years, so ask your labmates and ask Miguel to put you in touch with researchers who have recently navigated the process. And update this manual with your experiences!
 
@@ -59,9 +61,9 @@ You may store research equipment in the visiting researcher storage room at the 
 
 Ensure that you are up-to-date with recommended vaccinations and plan to get a prescription for malaria prophylaxis. 
 
-You may be able to purchase and activate an eSIM card for Mozambique in advance of your travels. Movitel has the best coverage in the park. 
+You may be able to purchase and activate an eSIM card for Mozambique in advance of your travels (e.g., using the Airalo app). You may also be able to get a physical SIM card, and if you go this route, Movitel has the best coverage in the park. 
 
-Wireless Internet speeds are adequate in Chitengo for most purposes, although you should be prepared for unexpected outages and slow-downs. Social media is blocked during the day, to facilitate work. 
+Wireless Internet speeds are adequate in Chitengo for most purposes, although you should be prepared for unexpected outages and slow-downs, particularly in the evenings when more people are streaming and video calling. Social media is blocked during the day, to facilitate work. 
 
 ATMs in the Beira airport are the easiest way to draw Mozambican currency (meticais). Millenium Bank in Vila Gorongosa has ATMs where international debit cards work, and US Dollars, Rand, and Euros can be exchanged in Beira and Chimoio. Alert your bank ahead of travel so that your account is not frozen for suspicious activity.
 

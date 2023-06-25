@@ -29,5 +29,5 @@ This lab manual is a living document, and is meant to provide a central place fo
 
 The University of British Columbia Vancouver campus is situated on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam).
 
-Much of the content in this lab manual came from other public manuals, including the [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/), [Pinsky Lab](https://github.com/pinskylab), and [Bahlai Lab](https://github.com/BahlaiLab), and expectation documents from Somayeh Dodge (University of California Santa Barbara), Briana Abrahms (University of Washington), and Jerod Merkle (University of Wyoming).
+Much of the content in this lab manual came from other public manuals, including the [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/), [Pinsky Lab](https://github.com/pinskylab), and [Bahlai Lab](https://github.com/BahlaiLab), the UBC WildCo Lab Handbook, and expectation documents from Somayeh Dodge (University of California Santa Barbara), Briana Abrahms (University of Washington), and Jerod Merkle (University of Wyoming).
 

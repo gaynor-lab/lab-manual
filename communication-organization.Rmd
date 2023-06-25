@@ -2,11 +2,23 @@
 
 ![](img/waterbuck.png)
 
+## Onboarding
+
+Welcome to the Gaynor Lab! In addition to the official UBC onboarding process (obtaining study/work permits, getting set up with payroll), which you should coordinate with the appropriate departmental staff members, here are some things that you should talk about Kaitlyn about doing when you arrive:
+
++ Join the Gaynor Lab and Biodiversity Research Centre Slack organizations
++ Join the lab Google Drive
++ Join a shared Google Drive folder with Kaitlyn
++ Join the lab [GitHub organization](https://github.com/gaynor-lab)
++ Write your Individual Development Plan (Kaitlyn will share template and guidance)
++ Set up a regular meeting time with Kaitlyn
++ Read through this lab manual
+
 ## Meetings
 
 ### Lab meetings
 
-Beginning in Fall 2023, our lab will hold weekly 90-minute lab meetings in person on campus. 
+Our lab holds weekly 90-minute lab meetings, in person on campus. 
 
 All lab members will sign up to lead meetings on a rotating basis, and will be responsible for setting the agenda for their weeks. The purpose of these lab meetings is to solicit group feedback on research ideas and progress (and, occasionally, professional development). You might use this time to share a draft of a grant proposal, thesis proposal, or manuscript, discuss a paper relevant to your interests, or give a practice talk. All written materials should be shared with the group at least one week before lab meeting. 
 
@@ -59,7 +71,7 @@ See more on the use of GitHub below.
 
 We have a Gaynor Lab Slack organization, to be used for quick questions or topics for group discussion. Keep in mind that Slack does not have a permanent archive, and that GitHub is better for any project-related conversations for which an easily-searchable archive is preferable.
 
-For non-time-sensitive questions for Kaitlyn, add them to your agenda for your weekly meeting and plan to discuss them in person, rather than using Slack. 
+For non-time-sensitive questions for Kaitlyn, add them to your agenda for your weekly meeting and plan to discuss them in person, rather than using Slack. As a rule of thumb, if you have a quick question for Kaitlyn that she can answer from her phone on the bus, send it via Slack; if it will require more time, action, or thought, send it via e-mail.
 
 ### Phone
 
@@ -67,17 +79,13 @@ Maybe we could set up a lab phone line, but who uses land lines anymore? For urg
 
 ### Google Drive
 
-We have a Gaynor Lab Google Drive folder, which contains meeting notes and relevant shared documents.
+We have a Gaynor Lab Google Drive folder, which contains meeting notes and relevant shared documents. We will also use this folder to store lab publications, presentations, photos, and data. Everything in this folder should remain internal to the Gaynor Lab unless permission is given to share it more widely.
 
-We will also use this folder to store lab publications, presentations, photos, and data.
-
-Everything in this folder should remain internal to the Gaynor Lab unless permission is given to share it more widely.
+In addition, each lab member will have a designated Google Drive folder shared only with Kaitlyn. This folder will house the Individual Development Plan and weekly meeting notes. Beyond that, you can organize it however you prefer. However, any Google documents that you wish to share with Kaitlyn should be placed somewhere in this folder so that they can be easily tracked down later and not get lost in the vast universe of shared Google Docs.
 
 ### Lab manual
 
 Any information that comes up on Slack or email that is valuable for lab institutional knowledge should be added this lab manual via a pull request. 
-
-
 
 ## Online presence
 

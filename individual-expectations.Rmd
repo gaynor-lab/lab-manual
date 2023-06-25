@@ -5,9 +5,9 @@ All lab members are expected to adhere to our lab philosophy (Chapter \@ref(phil
 
 ## UBC requirements
 
-All lab members are responsible for keeping on top of paperwork related to their own payroll, HR, travel, reimbursements, etc. We can use this lab manual and lab Slack to share information and resources with one another.
+Given that our lab members have diverse departmental affiliations and are enrolled in various programs, with various funding arrangements, it is the responsibility of the individual lab member to ensure they are keeping on top of paperwork related to their own payroll, HR, travel, reimbursements, etc. We can use this lab manual and lab Slack to share information and resources with one another, and please let Kaitlyn know if you have questions or need support.
 
-Graduate students are responsible for degree progress. This means you need to stay on top of program and university deadlines, requirements, etc. Before registering for courses each term, meet with Kaitlyn to discuss your plans.
+Graduate students are responsible for degree progress. This means you need to stay on top of program and university deadlines, requirements, etc. Before registering for courses each term, you should discuss your plans with Kaitlyn (ideally in our weekly meetings).
 
 Resources:
 
@@ -21,7 +21,7 @@ For all graduate students and postdocs, it is expected that research is your top
 
 ### Publication
 
-Graduate students are expected to submit half of their chapters to peer-reviewed journals prior to sign-off on their thesis. For PhD students, the expectation is that you submit one chapter to both your committee and a peer-reviewed publication within the first 3.5 years in the program, and a second within the first 5.
+Graduate students should plan to submit half of their chapters to peer-reviewed journals prior to sign-off on their thesis. For PhD students, aim to submit one chapter to both your committee and a peer-reviewed publication within the first 3.5 years in the program, and a second within the first 5.
 
 Kaitlyn and other lab members will support you in navigating the peer-review process, including journal selection, responses to reviewers, and payment of publication costs.
 
@@ -38,7 +38,7 @@ Kaitlyn aims to provide financial support for lab members to attend and present 
 
 ### Authorship policy
 
-In our collaborative work, the person who makes significant intellectual contributions (in terms of conceiving the original idea, method development, experiment design, analysis) or contributes more than 50% to the written manuscript will be the first author.
+In our collaborative work, the person who makes the most significant intellectual contributions (in terms of conceiving the original idea, method development, experiment design, analysis) and leads the research and writing of the manuscript will be the first author.
 
 Shared first authorship may be an option in some circumstances: for example, when projects are truly co-developed and done equally, or when leadership of a project is handed off from one lab member to another upon leaving the group. However, graduate students should plan to be the sole first author on any papers that arise from thesis chapters.
 
@@ -46,7 +46,7 @@ Co-authorship on a paper can be earned through substantial intellectual contribu
 
 If you are leading a project that is facilitated by undergraduate researchers and/or field technicians, you are encouraged to provide these individuals with the opportunity to contribute intellectually to the project and earn co-authorship.
 
-It is likely that Kaitlyn will be the last (senior) author on most publications led by lab members for research that is primarily conducted while you are in the lab. However, like all co-authors, Kaitlyn should earn this authorship position! For papers on which you are the first author and Kaitlyn is last author, the two of you should plan to make collective decisions about the authorship of others.
+It is likely that Kaitlyn will be the last (senior) author on most publications led by lab members for research that is primarily conducted while you are in the lab. However, like all co-authors, Kaitlyn should earn this authorship position! Generally, you should maintain open lines of communication with Kaitlyn about your publication plans, so that she can best support you and navigate coauthorship discussions. For papers on which you are the first author and Kaitlyn is last author, the two of you should plan to make collective decisions about the authorship of others. 
 
 In general, discuss authorship with your colleagues early in the collaboration process, to ensure alignment of expectations and a positive working relationship. The invitation of co-authorship should be made explicitly and in writing.
 
@@ -55,13 +55,13 @@ As always, feel free to ask Kaitlyn if you have any concerns or questions about 
 ## Funding
 
 
-The Zoology minimum graduate student stipend is $30,000 annually (including tuition and student fees). This minimum stipend will apply to all students in the lab, regardless of home department (unless the home department has a higher minimum, although as of now, that is not the case for any lab members). In the Gaynor Lab, graduate students can expect a stipend of $30,000 PLUS tuition for 5 years of a PhD and 2 years of a MSc, contingent on availability of lab research funds to cover tuition, and satisfactory degree progress.
+The Zoology minimum graduate student stipend is $30,000 annually (including tuition and student fees). The funds to support this stipend do not come from the department or the lab, however, and the stipend is comprised of a combination of TA-ships, fellowships, and GRAs. The exact breakdown will vary by student. This minimum stipend will apply to all students in the lab, regardless of home department (unless the home department has a higher minimum, although as of now, that is not the case for any lab members). In the Gaynor Lab, graduate students can expect a stipend of $30,000 PLUS tuition for 5 years of a PhD and 2 years of a MSc, contingent on availability of lab research funds to cover tuition, and satisfactory degree progress. Please note that students in many departments are also expected to pay [student fees](https://students.ubc.ca/enrolment/finances/tuition-fees), which are paid out of the stipend.
 
-**Fellowships**: All lab members are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. As a general rule, all graduate students should apply for at least one grant or fellowship every year. 
+**Fellowships**: All lab members are expected to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to go towards their $30,000 stipend (e.g., 4YF, NSERC), but also smaller grants for travel, workshop attendance, or research costs. As a general rule, all graduate students should apply for at least one grant or fellowship every year. In most cases, obtaining a fellowship will not increase the overall take-home pay for the student, but may reduce the need to TA (see details below), and will free up lab funds to support student research, travel, and conference attendance.
 
-**TA-ships**: Graduate students are expected to TA for two terms each year, unless they have fellowship support >$15,000, in which case they are expected to TA for at least one term. Students with fellowship(s) totaling over $30,000 may choose whether or not to TA, with all TA funding going to them.
+**TA-ships**: Graduate students are expected to TA for two terms each year, by default. If a student has fellowship support >$15,000, they are expected to TA for at least one term. Students with fellowship(s) totaling over $30,000 may choose whether or not to TA, with all TA funding going to them.
 
-**GRAs**: We will use lab funds (GRAs) to bring take-home salaries to $30,000, so long as a student is making satisfactory progress towards degree. Lab funds should be considered a last resort, after fellowships, TAships, and other funding opportunities have been exhausted. If you are funded from lab grants and contracts, you may need to be flexible in your research and adjust the topic to better align with the current grants/contracts that we have in the lab.
+**GRAs**: We will use lab funds (GRAs or work-learn positions) to bring take-home salaries to $30,000, so long as a student is making satisfactory progress towards degree. These funds should be considered a last resort, after fellowships, TAships, and other funding opportunities have been exhausted. If you are funded from lab grants and contracts, you may need to be flexible in your research and adjust the topic to better align with the current grants/contracts that we have in the lab. If you are funded through a work-learn position, you may be asked to do a small amount of non-research work in service of broader lab goals (e.g., event planning, administrative work).
 
 **Bonus**: Students who earn $24,000 or more through a combination of fellowship and TAships will receive an additional $1,500 bonus on top of the standard GRA, bringing their stipend to $31,500 (or higher, if combined fellowships and TA-ships exceed $30,000). This is in an attempt to keep things reasonably fair amongst students in the lab, while still incentivizing TAing and applying for fellowships beyond what is needed to meet the minimum.
 
@@ -104,7 +104,7 @@ There is value to interacting with others as part of your work, and we do expect
 
 ### Time budgeting
 
-For graduate students and postdocs, plan to spend 40 hours/week on research, teaching, and professional development activities. The exact breakdown of this time will depend on the nature of your appointment (e.g., TA and RA positions). Some people find that counting all 'billable hours' is productive for them as it helps them keep accountable to themselves (Kaitlyn uses [Toggl](https://toggl.com) for this purpose). Others do not find this method useful. Regularly assess what works best for you.  
+For graduate students and postdocs, plan to spend 40 hours/week actively working on research, teaching, and professional development activities. The exact breakdown of this time will depend on the nature of your appointment (e.g., TA and RA positions). Some people find that tracking hours is productive for them as it helps them keep accountable to themselves (Kaitlyn uses [Toggl](https://toggl.com) for this purpose). Others do not find this method useful. Regularly assess what works best for you.  
 
 ### Vacation
 
