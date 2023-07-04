@@ -1,4 +1,4 @@
-# Research practices {#research}
+# Research practices & resources {#research}
 
 ## Data management and coding
 
@@ -88,6 +88,19 @@ Here are some things to check for in your writing. Please cross-check this list 
 + Limit use of adverbs and "filler" words
 + Use active voice, rather than passive voice
 + Be consistent in your use of tense
+
+## Funding
+
+Apply regularly for research funding! Not only will it potentially bring in money to support additional data collection, but it will also help you refine your ideas and develop important skills (grant-writing, budgeting, and science communication).
+
+Here are some grants to consider (initials represent Gaynor Lab members who have received them). Please add to the list, and share opportunities with the rest of the lab via Slack!
+
++ Rufford Foundation (KG)
++ Idea Wild (KG)
++ Explorers Club (KG)
++ National Geographic grants
++ BRITE internship (BRC internal grant; JG)
++ Animal Behavior Society student grants (KG)
 
 ## Writing peer reviews
 
