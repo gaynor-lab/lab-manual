@@ -69,3 +69,8 @@ housing
 transportation
 writing-peer-reviews
 onboarding
+research-expectations
+e-mail-etiquette
+planning
+travel-insurance-medical-care
+animal-care-and-use

@@ -14,7 +14,7 @@ Resources:
 + [Zoology Graduate Student Handbook](https://www.zoology.ubc.ca/system/files/assets/media-file/file/2022-03/New%20Handbook%202022_March.pdf)
 + [UBC Graduate Game Plan](https://www.grad.ubc.ca/current-students/professional-development/graduate-game-plan)
 
-## Research
+## Research expectations
 
 The level of independence of lab members in research development will vary according to position, with increasing independence from undergraduate to MSc to PhD to postdocs, and will increase over the course of an individual's time in the lab. 
 
