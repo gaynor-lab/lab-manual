@@ -23,25 +23,37 @@ Welcome to the Gaynor Lab! In addition to the official UBC onboarding process (o
 
 ### Lab meetings
 
-Our lab holds weekly 90-minute lab meetings, in person on campus. 
+Our lab holds weekly 90-minute lab meetings, in person on campus. The first ~30 minutes will be dedicated to individual updates and lab business/announcements. The remaining 60 minutes will be dedicated to the primary topic of the lab meeting.
 
-All lab members will sign up to lead meetings on a rotating basis, and will be responsible for setting the agenda for their weeks. The purpose of these lab meetings is to solicit group feedback on research ideas and progress (and, occasionally, professional development). You might use this time to share a draft of a grant proposal, thesis proposal, or manuscript, discuss a paper relevant to your interests, or give a practice talk. All written materials should be shared with the group at least one week before lab meeting. 
+All lab members will sign up to lead meetings on a rotating basis, and will be responsible for setting the agenda for their weeks. The purpose of these lab meetings is to solicit group feedback on research ideas and progress (and, occasionally, professional development). You might use this time to share a draft of a grant proposal, thesis proposal, or manuscript, discuss a paper relevant to your interests, or give a practice talk. 
 
-All lab members are expected to attend weekly, unless in the field, and to provide written comments on materials in advance of the meeting. 
+All lab members are expected to attend weekly, unless in the field, and to provide written comments on materials in advance of the meeting. In-person attendance is expected for those in Vancouver, but joining remotely is an option when traveling. Please note any virtual attendance or absences on the lab meeting spreadsheet.
 
 We will rotate note-taking responsibilities and maintain notes in the lab Google Drive folder.
+
+#### Prep work for lab meeting {-}
+
+The goal of lab meeting is not simply to provide updates on our research projects with one another, but rather to spend dedicated time thinking deeply about ideas as a collective. This is one of the few spaces on campus where we can meaningfully workshop our research with others, so make the most of it! Ideally, we can use the hour to discuss, rather than get up to speed. 
+
+Given this goal, we should all expect to complete some prep work prior to lab meeting in most cases (and plan to assign it when we are leading). Prep work is also valuable because many people (myself included) come up with better ideas when there is some time to let them marinate, and individual reflection prevents groupthink (a lack of creativity when a group coalesces on the same ideas together). This prep work may involve looking through a draft of a manuscript, proposal, grant application, poster, figure, or published paper that is inspiring your thinking. If you aren't sure what to assign, ask yourself: what background information do I need to share in order for everybody to get up to speed before we discuss? How can I share this information ahead of time, rather than spending half of lab meeting presenting it?
+
+All written materials should be shared with the group via e-mail at least five days before lab meeting (by the Thursday before). We should avoid working on collaborative Google Docs at this stage, again to avoid groupthink, and instead develop our independent ideas. 
+
+When sending material, always make sure to describe what you are sending and try to make it as easy as possible for the lab to help you. If you are asking for feedback, clarify what kind of feedback (big picture ideas vs. line edits on grammar). If there are particular things you are stuck on, or want to discuss, flag these in advance. If you would like to discuss research ideas, provide some questions that will seed the discussion.
+
+All lab members should come to lab meeting ready to dive in. Ideally, if you are providing written comments, you should send them to the lab meeting leader in advance of lab meeting so they can review them and integrate them into their agenda.
 
 #### Giving feedback to your labmates {-}
 
 We will share feedback respectfully and constructively. This [resource from the University of Waterloo](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/assessing-student-work/grading-and-feedback/receiving-and-giving-effective-feedback) outlines the main points of how to give and receive feedback. 
-
-When sending material, always make sure to describe what you are sending and try to make it as easy as possible for the lab to help you.
 
 Feedback shared in the context of lab meeting does not merit coauthorship on manuscripts, although collaborations are encouraged outside of them, and it is good practice to recognize those who gave feedback in Acknowledgement sections as relevant. 
 
 ### Individual meetings with Kaitlyn
 
 We schedule regular 30-minute weekly individual meetings with Kaitlyn throughout the year. Meetings are a chance for you to get focused time with Kaitlyn to discuss and work on your research. Thus they are your time, not Kaitlyn’s. Even if you don't have anything urgent to discuss, this regularity is important for maintaining open communication, and we'll fill the time each week!
+
+Please see these guidelines for [“What to bring to a meeting with your advisor”](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/) - I think they do a great job of emphasizing what these meetings are for, and how to get the most from them!
 
 Each lab member will have a designated Google Doc (visible only to you and Kaitlyn) for agendas and notes for our weekly meetings. (Following templates posted on Twitter by Susana Wadgymar and Michael Hoffman.) By 11am on the day of our weekly meeting, update this file with the following information (don’t spend any more than 15 minutes on this, and don’t feel the need to use complete sentences):
 
