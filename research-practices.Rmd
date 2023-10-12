@@ -89,6 +89,10 @@ Here are some things to check for in your writing. Please cross-check this list 
 + Use active voice, rather than passive voice
 + Be consistent in your use of tense
 
+## Figures
+
+If you're looking for vector silhouettes of an organism, check out [PhyloPic](https://www.phylopic.org/)! All available for reuse. 
+
 ## Funding
 
 Apply regularly for research funding! Not only will it potentially bring in money to support additional data collection, but it will also help you refine your ideas and develop important skills (grant-writing, budgeting, and science communication).

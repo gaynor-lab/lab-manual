@@ -81,3 +81,4 @@ undergraduate-engagement
 lab-collaboration
 sharing-your-research
 press-releases
+figures
