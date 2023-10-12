@@ -112,3 +112,30 @@ Some good resources for peer review include:
 + [Rebecca Sear, "Good Practices in Peer Review"](https://osf.io/aujs4)
 + [Brian Lucey, The Guardian, "Peer Review - How to Get It Right"](https://www.theguardian.com/higher-education-network/blog/2013/sep/27/peer-review-10-tips-research-paper)
 + [Jennifer Raff, "How to become good at peer review"](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/)
+
+
+## Sharing your research
+
+### Press releases
+
+Something about press releases can go here?
+
+### Google Scholar profiles
+
+Having a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers and reports.  
+
+We recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers and citations as you publish and people use your work. This is a really easy step to creating a web presence without having to set up a website.
+
+
+### Personal websites
+
+**Why have your own website?**
+
+1. People will Google you. They might as well see what you want them to.
+2. Give people an easy way to find you and your work.
+
+One way to do this is a personal website. This doesn't have to be extensive, but can be a good way to curate your web presence.  
+
+There are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many options are free.  
+
+Some options for creating sites include: GoogleSites, Weebly, Squarespace, WordPress, R Markdown, GitHub.  
