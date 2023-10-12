@@ -78,3 +78,6 @@ funding-1
 avenues-for-engaging-undergraduates
 e-mail-1
 undergraduate-engagement
+lab-collaboration
+sharing-your-research
+press-releases

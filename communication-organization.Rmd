@@ -120,3 +120,8 @@ In addition, each lab member will have a designated Google Drive folder shared o
 Any information that comes up on Slack or email that is valuable for lab institutional knowledge should be added this lab manual via a pull request. 
 
 
+## Lab collaboration
+
+For those of us working in the same study systems, we should take a collaborative approach to sharing data, resources, and ideas, in the interest of doing better science as a team!
+
+For the Gorongosa-based researchers, we have a shared, flexible research brainstorming document in the Google Drive folder. This document serves multiple purposes: not forgetting our ideas, sharing feedback on ideas, keeping track of data sets and collaborations, coming up with potential student projects, and making sure we loop each other in on projects that interest us and don’t duplicate effort. If you add an idea to the doc, please add your name, and nobody should move forward with  or "give away" an idea without checking in with the person who put it on there. We should not feel like we have to hide ideas from each other, nor that we can’t pursue an idea that someone else is also interested in. Please keep this document internal to our lab for now. I know there is no shortage of good ideas and I highly encourage cross-lab collaboration, but I want to be sure that everybody who is using this document understands the ground rules.
