@@ -82,3 +82,4 @@ lab-collaboration
 sharing-your-research
 press-releases
 figures
+committee-member-expectations
