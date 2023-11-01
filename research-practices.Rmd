@@ -51,9 +51,9 @@ Learn R from within R with interactive sessions using [swirlstats.com](swirlstat
 The [carpentries R lessons](https://datacarpentry.org/R-ecology-lesson/) are also a fab resource.  
 
 
-### Spatial Data
+### Resources fo spatial data in R
 
-Here is a easy-to-use guide for working with spatial data in R: [Geocomputation with R](https://r.geocompx.org/spatial-class.html)
+Here is an easy-to-use guide for working with spatial data in R: [Geocomputation with R](https://r.geocompx.org/spatial-class.html)
 
 Also, check out this new book on [Spatial Statistics in R](https://www.paulamoraga.com/book-spatial/)
 
