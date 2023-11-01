@@ -85,3 +85,4 @@ figures
 committee-member-expectations
 what-i-expect-of-you
 what-you-can-expect-of-me
+resources-fo-spatial-data-in-r
