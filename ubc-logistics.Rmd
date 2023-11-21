@@ -37,7 +37,7 @@ The instructions below describe how to remotely access the lab computer in the t
 
 2. Open **Cisco AnyConnect** and type **myvpn.ubc.ca** into the address. This step allows you to connect to UBC's VPN.
 
-3. Another window should pop up asking for a username and password. Enter **CWLusername.zool@<!-- -->app** for your username, and your normal CWL password. Note you will only be able to login once you have been granted access to the Zoology server. Email the [Zoology Computing Unit](https://zcu.zoology.ubc.ca:442/wiki/index.php/Main_Page) in order to do so.
+3. Another window should pop up asking for a username and password. Enter **CWLusername.zool@<!-- -->app** for your username, and your normal CWL password. Note you will only be able to login once you have been granted access to the Zoology server. Email your CWL username to the [Zoology Computing Unit](https://zcu.zoology.ubc.ca:442/wiki/index.php/Main_Page) in order to do so.
 
 4. Open Microsoft Remote Desktop and click on the plus sign on the upper menu -> *Add PC*. Enter the PC IP address under *PC Name* which is **10.34.40.76**.
 
