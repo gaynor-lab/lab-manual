@@ -31,6 +31,22 @@ The [Zoology Computing Unit](https://zcu.zoology.ubc.ca:442/wiki/index.php/Main_
 
 ### Remote Desktop Access
 
+The instructions below describe how to remotely access the lab computer in the theory room:
+
+1. Download both [Cisco AnyConnect](https://ubc.service-now.com/kb_view.do?sysparm_article=KB0017956#mcetoc_1fgv0c4je27) and Microsoft Remote Desktop. You can download Microsoft Remote Desktop from your laptop's respective App Store. Make sure you are connected to *ubcsecure* when downloading Cisco AnyConnect.
+
+2. Open **Cisco AnyConnect** and type **myvpn.ubc.ca** into the address. This step allows you to connect to UBC's VPN.
+
+3. Another window should pop up asking for a username and password. Enter **CWLusername.zool@<!-- -->app** for your username, and your normal CWL password. Note you will only be able to login once you have been granted access to the Zoology server. Email the [Zoology Computing Unit](https://zcu.zoology.ubc.ca:442/wiki/index.php/Main_Page) in order to do so.
+
+4. Open Microsoft Remote Desktop and click on the plus sign on the upper menu -> *Add PC*. Enter the PC IP address under *PC Name* which is **10.34.40.76**.
+
+5. Under *User account* click *Add User Account* and enter the username (**Gaynor Lab Computer**) and password (**Leop@<!-- -->rD1523!!**) for the lab computer. This ensures you don’t have to enter the username and password each time you want to remotely use the lab computer.
+
+6. Double click on the now added PC within the Microsoft Remote Desktop hub, and you should be able to remotely access the computer!
+
+These steps should allow remote access to the computer at any time. Make sure you are connected to the VPN each time you use the computer. Note you do not have to have Microsoft Remote Desktop open the entire time you are running code. If you have code that you know will take a long time to run, you can quit (Command/Ctrl + Q) out of Microsoft Remote Desktop and come back to it later. **Do not** sign out of the remote desktop as this will stop whatever code you are running.
+
 
 ## Finance
 
