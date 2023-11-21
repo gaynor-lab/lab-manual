@@ -29,6 +29,9 @@ We will be sure to schedule regular lab gatherings to make sure we see each othe
 
 The [Zoology Computing Unit](https://zcu.zoology.ubc.ca:442/wiki/index.php/Main_Page) has a lot of great information on its Wikipedia page, about how to set up your UBC e-mail and use the Zoology computing resources.
 
+### Remote Desktop Access
+
+
 ## Finance
 
 We will use the [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) platform for procurement and reimbursement. 
