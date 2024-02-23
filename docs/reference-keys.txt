@@ -81,3 +81,31 @@ gorongosa-national-park-mozambique
 logistics
 expectations-of-engagement
 output-bookdowngitbook
+<<<<<<< HEAD
+=======
+writing-checklist
+housing
+transportation
+writing-peer-reviews
+onboarding
+research-expectations
+e-mail-etiquette
+planning
+travel-insurance-medical-care
+animal-care-and-use
+funding-1
+avenues-for-engaging-undergraduates
+e-mail-1
+undergraduate-engagement
+lab-collaboration
+sharing-your-research
+press-releases
+figures
+committee-member-expectations
+what-i-expect-of-you
+what-you-can-expect-of-me
+resources-fo-spatial-data-in-r
+remote-desktop-access
+poster-printing
+zoom
+>>>>>>> refs/remotes/origin/master
