@@ -47,14 +47,11 @@ The instructions below describe how to remotely access the lab computer in the t
 
 These steps should allow remote access to the computer at any time. Make sure you are connected to the VPN each time you use the computer. Note you do not have to have Microsoft Remote Desktop open the entire time you are running code. If you have code that you know will take a long time to run, you can quit (Command/Ctrl + Q) out of Microsoft Remote Desktop and come back to it later. **Do not** sign out of the remote desktop as this will stop whatever code you are running.
 
-
 ## Finance
 
 We will use the [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) platform for procurement and reimbursement. 
 
 We have a lab credit card for research-related purposes. Please discuss use of the credit card with Kaitlyn. Be sure to get an itemized receipt.
-
-a
 
 ## E-mail
 
