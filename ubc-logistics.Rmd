@@ -55,7 +55,7 @@ We have a lab credit card for research-related purposes. Please discuss use of t
 
 ### Filing reimbursement 
 
-If it so happens that an expense is charged to your own credit card rather than the lab credit card, please follow these [Reimbursement steps](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://irp.ubc.ca/sites/integrated-renewal.ubc.ca/files/images/How%20Do%20I%20-%20Get%20Reimbursed%20for%20Expenses.pdf).
+If it so happens that an expense is charged to your own credit card rather than the lab credit card, please google "reimbursement ubc workday" and follow the steps from the first link.
 
 Be sure to check with Kaitlyn which grant the expense falls under. Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes. The **cost center** will autofill upon entering the grant code.
 
