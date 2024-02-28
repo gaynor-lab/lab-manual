@@ -51,13 +51,15 @@ These steps should allow remote access to the computer at any time. Make sure yo
 
 We will use the [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) platform for procurement and reimbursement. 
 
-We have a lab credit card for research-related purposes. Please discuss use of the credit card with Kaitlyn. Be sure to get an itemized receipt.
+We have a lab credit card for research-related purposes. Please discuss use of the credit card with Kaitlyn before making a purchase, and check to make sure the intended expense falls under one of our grants. Be sure to get an itemized receipt and send it immediately to the lab member handling expense reports, with the applicable grant speedchart. Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes.
+
+**DO NOT** under any circumstance share the lab credit card information with anyone outside of the lab.
 
 ### Filing reimbursement 
 
 If it so happens that an expense is charged to your own credit card rather than the lab credit card, please google "reimbursement ubc workday" and follow the steps from the first link.
 
-Be sure to check with Kaitlyn which grant the expense falls under. Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes. The **cost center** will autofill upon entering the grant code.
+Be sure to check with Kaitlyn which grant the expense falls under. The **cost center** will autofill upon entering the grant code.
 
 Also make sure to check the **enable tax** option, as the reimbursement will not go through otherwise.
 
