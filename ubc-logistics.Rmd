@@ -53,7 +53,7 @@ We will use the [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) platfor
 
 We have a lab credit card for research-related purposes. Please discuss use of the credit card with Kaitlyn before making a purchase, and check to make sure the intended expense falls under one of our grants. Be sure to get an itemized receipt and send it immediately to the lab member handling expense reports, with the applicable grant speedchart. Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes.
 
-**DO NOT** under any circumstance share the lab credit card information with anyone outside of the lab.
+**DO NOT** under any circumstance share the lab credit card information with anyone outside of the lab. Please also do not auto-save the credit card information on any web browser.
 
 ### Filing reimbursement 
 
