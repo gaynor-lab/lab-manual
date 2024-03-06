@@ -57,9 +57,51 @@ We have a lab credit card for research-related purposes. Please discuss use of t
 
 ### Creating purchase orders
 
+For purchases that we receive quotes for, we often have to file a purchase order (PO) on WorkDay with the exact amount and items from the quote. Suppliers who provide quotes will then be issued an invoice so they can ship our requested items to us. We will also receive quotes from our colleagues and collaborators for field and research equipment of which we have to report to UBC. This section describes the necessary steps and tips in order to create and file POs via WorkDay.
+
+To file a PO follow the ["Create Purchase Requisition – Non-Catalogue" steps](https://ubc.service-now.com/selfservice?id=kb_article_view&sys_kb_id=562eef9f1ba5b990ba8f539f034bcb60). 
+
+Listed below are some tips to help while filing POs:
+
+- We will most often file a **Purchase Requisition** for any quotes that we receive. You would only fill out a **Bill Only (Retroactive)** requisition if a purchase has already been made and shipped to us.
+
+- If a supplier is not listed in WorkDay, follow the ["Create Supplier Request" steps](https://ubc.service-now.com/selfservice?id=kb_article&sysparm_article=KB0016683). Do this before you file a PO, as you won't be able to file a PO otherwise. Make sure the supplier sends all necessary contact and banking information in order to properly fill out the supplier request form.
+
+- Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes and **always** consult with Kaitlyn to make sure the right grant is applied to the PO.
+
+- For items shipped to UBC, change the Deliver-to address to **Biological Sciences Building --> BIOL-Floor 1-Room 1015**. You can search "Biological Sciences Building" in the deliver-to search bar and scroll down until you see Room 1015. This is the Zoology/Botany shipping and receiving office, and where we will pick up any placed orders. Keep the Ship-to address as **6270 University Blvd...**
+
+- Make sure all expense lines in the PO add to the same amount in the received quote from the supplier.
+
+- The tax section can be confusing, and all of the options are frankly not very informative on their own. Thankfully a member of the UBC Financial team will take care of any tax issues so leave the default options when filling out the PO.
+
+- Once the items from the PO have been received, create a receipt for the PO by following the ["Create Receipt of Goods & Services" steps](https://ubc.service-now.com/selfservice?id=kb_article_view&sys_kb_id=4d9410a947cc4650efc6767b416d43fc).
+
+- If you need any help or run into any issues while filing a PO, email Rafael Passos (rafael.passos[at]ubc.ca). He is responsible for any Faculty of Science POs, and is a surprisingly passionate expert on anything and everything POs. He is a **very** valuable resource, and will probably also give many tips of his own during the PO process.
+
 #### Gorongosa purchase orders
 
+Many of us are purchasing field equipment for our Gorongosa field seasons. All the steps outlined above apply for any Gorongosa-specific purchases, but there are a few more specifics that will make filing any Gorongosa purchase order much easier:
+
+- Our supplier for any Gorongosa-specific purchases is **Gorongosa Project Inc.**
+
+- The items we purchase for the Gorongosa project will be sent to Gorongosa itself, not to UBC. To ensure items are not sent to UBC, write in the **Memo** space that the purchased items are being sent to Gorongosa OR are being purchased by Gorongosa for field work at our field site. Alternatively, you can also email Rafael (rafael.passos[at]ubc.ca) to let him know. Be sure to attach the PO# (issued after PO is confirmed) or REQ# (generated upon creation of PO) to the email so Rafael knows where to look.
+
 ### Filing expense reports
+
+Any purchases on the lab credit card will show as "Expense Transactions" within WorkDay. For any lab member that has the responsibility for reconciling these charges as a delegate (acting on behalf of Kaitlyn in WorkDay), first follow the ["Complete Tasks as a Delegate" steps](https://ubc.service-now.com/selfservice?sys_kb_id=9954cb1a87b5f114f2f90d47cebb350a&id=kb_article_view&sysparm_rank=4&sysparm_tsqueryId=75e9a25593f842d036c870d74dba1079) and click on **My Expense Transactions** on the resulting page.
+
+Then follow steps 2-5 on the ["Reconcile UBC Corporate Credit Card Transactions on an Expense Report" post](https://ubc.service-now.com/selfservice?sys_kb_id=f7a2d87747723590476eeaaf016d4366&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=109b9a9193f442d036c870d74dba10ee). 
+
+Listed below are some tips to help while filing expense reports:
+
+- Credit card charges will often appear a couple of days after the original purchase date. Make sure you only file expense reports for charges that appear on the **My Expense Transactions** page and that you have receipts for. If you do not have a receipt for a charge, email Kaitlyn or the lab member responsible for the charge.
+
+- Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes and **always** consult with Kaitlyn to make sure the right grant is applied to the expense report.
+
+- When creating a memo, write the message as if Kaitlyn was filing the expense report. For example, if there is a charge for a conference fee for a PhD student, let's say Mark Apple, write "Conference fees for PhD Student (Mark Apple)" in the memo space, not "Conference fees for Mark Apple".
+
+- If there are any purchases that require names, fill out the **Attendees** section with the **full names (as listed in WorkDay/UBC)** of all participants.
 
 ### Filing reimbursement 
 
