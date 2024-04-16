@@ -41,7 +41,7 @@ The instructions below describe how to remotely access the lab computer in the t
 
 4. Open Microsoft Remote Desktop and click on the plus sign on the upper menu -> *Add PC*. Enter the PC IP address under *PC Name* which is **10.34.40.76**.
 
-5. Under *User account* click *Add User Account* and enter the username (**Gaynor Lab Computer**) and password (**Leop@<!-- -->rD1523!!**) for the lab computer. This ensures you don’t have to enter the username and password each time you want to remotely use the lab computer.
+5. Under *User account* click *Add User Account* and enter the username (**Gaynor Lab Computer**) and password (posted on a sticky note on the lab computer) for the lab computer. This ensures you don’t have to enter the username and password each time you want to remotely use the lab computer.
 
 6. Double click on the now added PC within the Microsoft Remote Desktop hub, and you should be able to remotely access the computer!
 
