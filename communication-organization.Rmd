@@ -7,29 +7,35 @@
 Welcome to the Gaynor Lab! In addition to the official UBC onboarding process (obtaining study/work permits, getting set up with payroll), which you should coordinate with the appropriate departmental staff members, here are some things that you should talk about Kaitlyn about doing when you arrive:
 
 + Read through this lab manual!
-+ Join the Gaynor Lab and Biodiversity Research Centre Slack organizations (ask Kaitlyn for an invite if needed)
 + Join the lab Google Drive
 + Join a shared Google Drive folder with Kaitlyn
 + Join the lab [GitHub organization](https://github.com/gaynor-lab)
++ Join the lab Slack organization
 + Write your Individual Development Plan (Kaitlyn will share template and guidance)
-+ Set up a regular meeting time with Kaitlyn
-+ Get your [UBC card](https://ubccard.ubc.ca/)
-+ Get your keys; if you are in the BRC or Ponderosa E, Katie Beall will order them for you, and you'll pick the up at the UBC bookstore
++ Get your keys (discuss this with Kaitlyn); if you are in the BRC or Ponderosa E, Katie Beall will order them for you, and you'll pick the up at the UBC bookstore
 + UBC offers access to software for students and staff. If you need MS Office, GIS, etc. you can download them [here](https://it.ubc.ca/services/desktop-print-services/software-licensing/list-software-available)
-+ Set up a UBC Zoom account (will allow Zoom calls of unlimited duration... though one could argue about whether this is a "perk")
 + Complete any mandatory on-boarding courses on Workday
+
+For graduate students & postdocs new to UBC:
++ Join the Gaynor Lab and Biodiversity Research Centre Slack organizations (ask Kaitlyn for an invite if needed)
++ Get your [UBC card](https://ubccard.ubc.ca/)
++ Set up a regular meeting time with Kaitlyn
++ Set up a UBC Zoom account (will allow Zoom calls of unlimited duration... though one could argue about whether this is a "perk")
+
 
 ## Meetings
 
 ### Lab meetings
 
-Our lab holds weekly 90-minute lab meetings, in person on campus. The first ~30 minutes will be dedicated to individual updates and lab business/announcements. The remaining 60 minutes will be dedicated to the primary topic of the lab meeting.
+During the winter terms, our lab holds weekly 90-minute lab meetings, in person on campus. The first ~30 minutes will be dedicated to individual updates and lab business/announcements. The remaining 60 minutes will be dedicated to the primary topic of the lab meeting.
 
 All lab members will sign up to lead meetings on a rotating basis, and will be responsible for setting the agenda for their weeks. The purpose of these lab meetings is to solicit group feedback on research ideas and progress (and, occasionally, professional development). You might use this time to share a draft of a grant proposal, thesis proposal, or manuscript, discuss a paper relevant to your interests, or give a practice talk. 
 
 All lab members are expected to attend weekly, unless in the field, and to provide written comments on materials in advance of the meeting. In-person attendance is expected for those in Vancouver, but joining remotely is an option when traveling. Please note any virtual attendance or absences on the lab meeting spreadsheet.
 
 We will rotate note-taking responsibilities and maintain notes in the lab Google Drive folder.
+
+Summer lab meetings will have a different flavour—stay tuned!
 
 #### Prep work for lab meeting {-}
 
@@ -49,9 +55,11 @@ We will share feedback respectfully and constructively. This [resource from the 
 
 Feedback shared in the context of lab meeting does not merit coauthorship on manuscripts, although collaborations are encouraged outside of them, and it is good practice to recognize those who gave feedback in Acknowledgement sections as relevant. 
 
-### Individual meetings with Kaitlyn
+### Individual meetings with Kaitlyn (grad students)
 
-We schedule regular 30-minute weekly individual meetings with Kaitlyn throughout the year. Meetings are a chance for you to get focused time with Kaitlyn to discuss and work on your research. Thus they are your time, not Kaitlyn’s. Even if you don't have anything urgent to discuss, this regularity is important for maintaining open communication, and we'll fill the time each week!
+During the winter terms, all graduate students will have regular 30-minute weekly individual meetings with Kaitlyn throughout the year. Meetings are a chance for you to get focused time with Kaitlyn to discuss and work on your research. Thus they are your time, not Kaitlyn’s. Even if you don't have anything urgent to discuss, this regularity is important for maintaining open communication, and we'll fill the time each week!
+
+During the summer terms, meetings will be scheduled on an as-needed basis, around your and Kaitlyn's field, conference, and vacation schedules.
 
 Please see these guidelines for [“What to bring to a meeting with your advisor”](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/) - I think they do a great job of emphasizing what these meetings are for, and how to get the most from them!
 

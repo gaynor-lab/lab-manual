@@ -5,7 +5,7 @@ All lab members are expected to adhere to our lab philosophy (Chapter \@ref(phil
 
 ## UBC requirements
 
-Given that our lab members have diverse departmental affiliations and are enrolled in various programs, with various funding arrangements, it is the responsibility of the individual lab member to ensure they are keeping on top of paperwork related to their own payroll, HR, travel, reimbursements, etc. We can use this lab manual and lab Slack to share information and resources with one another, and please let Kaitlyn know if you have questions or need support.
+Given that our lab members have diverse departmental affiliations and are enrolled in and hired through various programs, with various funding arrangements, it is the responsibility of the individual lab member to ensure they are keeping on top of paperwork related to their own payroll, HR, travel, reimbursements, etc. We can use this lab manual and lab Slack to share information and resources with one another, and please let Kaitlyn know if you have questions or need support.
 
 Graduate students are responsible for degree progress. This means you need to stay on top of program and university deadlines, requirements, etc. Before registering for courses each term, you should discuss your plans with Kaitlyn (ideally in our weekly meetings).
 
@@ -31,7 +31,7 @@ When you leave the lab, make a plan with Kaitlyn for the timeline and process of
 
 ### Conferences
 
-Members of the Gaynor Lab are expected to share our research at local, national, and international meetings. We will share information with each other on upcoming conferences, and provide feedback on drafts of posters and presentations in lab meeting.
+Graduate students and postdocs in the Gaynor Lab are expected to share our research at local, national, and international meetings. We will share information with each other on upcoming conferences, and provide feedback on drafts of posters and presentations in lab meeting.
 
 To ensure that we are on the same page when sharing in-progress work with the public and with the scientific community, you should clear any abstracts and slideshows with Kaitlyn and other co-authors. Ideally, you'll give a practice presentation in a lab meeting, too!
 
@@ -57,10 +57,11 @@ As always, feel free to ask Kaitlyn if you have any concerns or questions about 
 
 ## Funding
 
+This section applies to graduate students in the Gaynor Lab.
 
 The Zoology minimum graduate student stipend is $30,000 annually (including tuition and student fees). The funds to support this stipend do not come from the department or the lab, however, and the stipend is comprised of a combination of TA-ships, fellowships, and GRAs. The exact breakdown will vary by student. This minimum stipend will apply to all students in the lab, regardless of home department (unless the home department has a higher minimum, although as of now, that is not the case for any lab members). For PhD students in the Faculty of Science, tuition will be waived for 4 years. Please note that students in most departments are also expected to pay [student fees](https://students.ubc.ca/enrolment/finances/tuition-fees), which are paid out of the stipend.
 
-**Fellowships**: All lab members are expected to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to go towards their $30,000 stipend (e.g., 4YF, NSERC), but also smaller grants for travel, workshop attendance, or research costs. As a general rule, all graduate students should apply for at least one grant or fellowship every year. In most cases, obtaining a fellowship will not increase the overall take-home pay for the student, but may reduce the need to TA (see details below), and will free up lab funds to support student research, travel, and conference attendance.
+**Fellowships, grants, and other research funding**: All lab members are expected to seek and apply for extramural funding to support their work. This includes scholarships, fellowships, and research contracts to go towards their $30,000 stipend (e.g., 4YF, NSERC), but also smaller grants for travel, workshop attendance, or research costs. As a general rule, all graduate students should apply for at least one grant or fellowship every year. In most cases, obtaining a fellowship will not increase the overall take-home pay for the student, but may reduce the need to TA (see details below), and will free up lab funds to support student research, travel, and conference attendance.
 
 **TA-ships**: Graduate students are expected to TA for two terms each year, by default. If a student has fellowship support >$15,000, they are expected to TA for at least one term. Students with fellowship(s) totaling over $30,000 may choose whether or not to TA, with all TA funding going to them.
 
@@ -91,7 +92,7 @@ Everybody in the Gaynor Lab should seek to provide mentorship, technical support
 
 ### Attendance and participation
 
-All lab members are expected to attend lab meetings, BRC and departmental seminars, and lab member defenses. We should all make an effort to attend social events put on by the lab, BRC, and departments, especially those within normal work hours. 
+All graduate students and postdocs in the lab are expected to attend lab meetings, BRC and departmental seminars, and lab member defenses. We should all make an effort to attend social events put on by the lab, BRC, and departments, especially those within normal work hours. 
 
 We are all busy, and there will always be something to do that feels more "productive" or urgent than attending a seminar or social event, but we should all recognize that these events are critical for building community. Ultimately, investment in relationships in our professional community will build a network to uplift and support our research, set the groundwork for new collaborations, and lead to new professional opportunities.
 
@@ -104,6 +105,10 @@ Even if a talk is outside of your area of interest, use it as an opportunity to 
 We should all set the working schedule that is the right fit for us, and it is likely that what this 'fit' is will change over the course of the time you are in the lab. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with your main collaborator to outline these. 
 
 There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. Lab members should not expect others to be available during evenings and weekends. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.
+
+#### Undergraduate timekeeping
+
+By each Monday, all undergraduates working in the lab should plan out their anticipated weekly hours that they will be working, on an individual Google form (template is [here](https://docs.google.com/spreadsheets/d/1wd4DadlbFxs_hrmIfySjMsbjggqjaFRZuUZoKYtF1z0/edit?usp=drive_link)). At the end of the week, please update this form to reflect the hours actually worked, with details about the specific tasks that were accomplished in this time. This system is not meant to micromanage, but rather exists to ensure that everybody has sufficient assigned tasks, to ensure that we contact you during the hours you plan to work, and ensure that tasks are taking the estimated amount of time (so we can adjust either our estimations or the workflow!)
 
 ### Time budgeting
 

@@ -19,7 +19,9 @@ Within my research group and larger communities at UBC, I will promote self-educ
 
 Within the first few weeks of joining the Gaynor Lab, you should work with Kaitlyn to develop a plan outlining your short, medium, and long term goals. This is a useful planning document that assists in aligning expectations. Each lab member will revisit the mentoring plan during an individual meeting with Kaitlyn at the beginning of each semester.
 
-A template for these can be found [here](https://docs.google.com/document/d/1GVBybwqujkrSIRqcw5gzAcOnCivtmA1vTVmi478Prrg/edit?usp=sharing), and is adapted from [Stanford's Office of Graduate Education](https://oge.stanford.edu/academics/idp/forms/).
+A template for graduate student mentoring plans can be found [here](https://docs.google.com/document/d/1GVBybwqujkrSIRqcw5gzAcOnCivtmA1vTVmi478Prrg/edit?usp=sharing), and is adapted from [Stanford's Office of Graduate Education](https://oge.stanford.edu/academics/idp/forms/).
+
+A template for undergraduate student mentoring plans can be found [here](https://docs.google.com/document/d/1nAVETDDRoxIKijQ9AmSYATWZO3svhAzv_jWBnZF7aw4/edit?usp=sharing).
 
 In addition to these individualized plans, which will guide specific self-defined expectations, Chapter \@ref(expectations) clarifies expectations for all lab members in their interactions with Kaitlyn.
 
@@ -27,14 +29,14 @@ In addition to these individualized plans, which will guide specific self-define
 
 You may be working most closely with a graduate student or postdoc in the Gaynor Lab, in which case they will be your primary source of contact. You should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.  
 
-Always feel like you can reach out to both [Kaitlyn](mailto:gaynor@zoology.ubc.ca) as lab PI. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.
+Always feel like you can reach out to both [Kaitlyn](mailto:kaitlyn.gaynor@ubc.ca) as lab PI. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.
 
 
 ## UBC expectations
 
 UBC has outlined [detailed guidance](https://responsible.research.ubc.ca/foundations/mentorship-supervision) for mentorship and supervision, including the following expectations for supervisors of graduate students. More details about Gaynor Lab policies on the points below can be found elsewhere in this manual, as linked below.
 
-As your supervisor, you can expect me to:
+For graduate students, as your supervisor, you can expect me to:
 
 + Demonstrate commitment to your research and educational program, and offer stimulation, respectful support, constructive criticism, and consistent encouragement.
 + Assist with identification of a research topic that is suitable for you and manageable within the scope of your degree.
@@ -70,7 +72,7 @@ I (Kaitlyn) will make every effort to meet these expectations for each member of
 
 ## Committee member expectations
 
-This guidance is intended for students who have me (Kaitlyn) on their committees, or who are interested in having me serve on their committee. Serving on graduate student committees is one of the most enjoyable and rewarding responsibilities of my job! I really enjoy the opportunity to dive into a diversity of research topics, learn about new disciplines, and lend expertise and advice when relevant. To allow us to get the most out of the student-committee member relationship, I am laying out some general expectations, which we can discuss and adapt according to your individual needs. Ultimately, this guidance will enable me to be the best possible committee member (I hope!). 
+This guidance is intended for graduate students who have me (Kaitlyn) on their committees, or who are interested in having me serve on their committee. Serving on graduate student committees is one of the most enjoyable and rewarding responsibilities of my job! I really enjoy the opportunity to dive into a diversity of research topics, learn about new disciplines, and lend expertise and advice when relevant. To allow us to get the most out of the student-committee member relationship, I am laying out some general expectations, which we can discuss and adapt according to your individual needs. Ultimately, this guidance will enable me to be the best possible committee member (I hope!). 
 
 #### What I expect of you:
 
