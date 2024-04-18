@@ -26,6 +26,7 @@ responsibilities-to-lab
 attendance-and-participation
 work-schedule
 work-hours
+undergraduate-timekeeping
 time-budgeting
 vacation
 research-integrity
@@ -33,7 +34,7 @@ communication
 onboarding
 meetings
 lab-meetings
-individual-meetings-with-kaitlyn
+individual-meetings-with-kaitlyn-grad-students
 communication-channels
 e-mail
 e-mail-etiquette
@@ -66,7 +67,13 @@ office-space
 computing
 remote-desktop-access
 finance
+creating-purchase-orders
+gorongosa-purchase-orders
+filing-expense-reports
+filing-reimbursement
 e-mail-1
+zoom
+poster-printing
 life-in-vancouver
 housing
 transportation
@@ -80,16 +87,3 @@ animal-care-and-use
 gorongosa-national-park-mozambique
 logistics
 expectations-of-engagement
-output-bookdowngitbook
-<<<<<<< HEAD
-=======
-avenues-for-engaging-undergraduates
-poster-printing
-zoom
->>>>>>> refs/remotes/origin/master
-filing-reimbursement
-creating-purchase-orders
-filing-expense-reports
-gorongosa-purchase-orders
-undergraduate-timekeeping
-individual-meetings-with-kaitlyn-grad-students
