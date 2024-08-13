@@ -53,7 +53,19 @@ We will use the [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) platfor
 
 We have a lab credit card for research-related purposes. Please discuss use of the credit card with Kaitlyn before making a purchase, and check to make sure the intended expense falls under one of our grants. Be sure to get an itemized receipt and send it immediately to the lab member handling expense reports, with the applicable grant speedchart. Consult the [Grants spreadsheet](https://docs.google.com/spreadsheets/d/1e4gDe8_CZ4ZXxGoZUxjFZNogzWPJtn1oTwxg45oF5tw/edit?usp=sharing) for grant/speedchart codes.
 
-**DO NOT** under any circumstance share the lab credit card information with anyone outside of the lab. Please also do not auto-save the credit card information on any web browser.
+### General notices for purchasing
+
+- **DO NOT** under any circumstance share the lab credit card information with anyone outside of the lab. Please also do not auto-save the credit card information on any web browser.
+- When making a purchase with the lab credit card in another currency, please do not convert it. **UBC credit cards can make non-CAD purchases** with favourable rates and no fees, while vendors such as PayPal use different exchange rates and may charge extra fees. 
+- Please ship orders to the **Zoology Shipping and Receiving** room (Biological Sciences 1015) rather than personal addresses. 
+- For orders involving **importing** from international vendors, please request the seller to add the following broker information to facilitate shipping and customs clearance:
+> BROKER: Thomson Ahern – and UBC dept WORKTAG: (speedchart code here)
+Please send the export documents to prealerts@taco.ca; mbrooks@taco.ca
+to facilitate pre-clearance prior to shipment arrival.
+Broker contact: Thompson Ahern | 6299 Airport Rd Ste 506 | Mississauga, ON – Canada L4V 1A2
+Contact : Mary Brooks | Direct: 905-677-3471 [Sarah will ask for the Ext. code and direct number...]
+
+
 
 ### Creating purchase orders
 
@@ -76,6 +88,10 @@ Listed below are some tips to help while filing POs:
 - The tax section can be confusing, and all of the options are frankly not very informative on their own. Thankfully a member of the UBC Financial team will take care of any tax issues so leave the default options when filling out the PO.
 
 - Once the items from the PO have been received, create a receipt for the PO by following the ["Create Receipt of Goods & Services" steps](https://ubc.service-now.com/selfservice?id=kb_article_view&sys_kb_id=4d9410a947cc4650efc6767b416d43fc).
+
+- Generally, filing a PO is required for invoices **over $3500**. However, some goods and services are exempt from POs; they are listed in the ["PO Exemption Matrix"](https://finance.ubc.ca/system/files/PO_Exemption_Matrix.pdf). This notably includes journal publications (#2) and conference registration (#7)
+
+- For some supplemental context behind procurement processes and policies, there are ["notes"](https://docs.google.com/document/d/19L4EtEjsOjB3vCWqCISVvSIkbpYBYGojYHIWcMDNRVs/edit?usp=sharing) in the Lab Logistics folder from UBC Finance's PO Process Workshop.
 
 - If you need any help or run into any issues while filing a PO, email Rafael Passos (rafael.passos[at]ubc.ca). He is responsible for any Faculty of Science POs, and is a surprisingly passionate expert on anything and everything POs. He is a **very** valuable resource, and will probably also give many tips of his own during the PO process.
 

@@ -67,6 +67,7 @@ office-space
 computing
 remote-desktop-access
 finance-and-purchasing
+general-notices-for-purchasing
 creating-purchase-orders
 gorongosa-purchase-orders
 filing-expense-reports
