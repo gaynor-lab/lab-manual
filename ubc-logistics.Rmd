@@ -65,8 +65,6 @@ to facilitate pre-clearance prior to shipment arrival.
 Broker contact: Thompson Ahern | 6299 Airport Rd Ste 506 | Mississauga, ON – Canada L4V 1A2
 Contact : Mary Brooks | Direct: 905-677-3471 [Sarah will ask for the Ext. code and direct number...]
 
-
-
 ### Creating purchase orders
 
 For purchases that we receive quotes for, we often have to file a purchase order (PO) on WorkDay with the exact amount and items from the quote. Suppliers who provide quotes will then be issued an invoice so they can ship our requested items to us. We will also receive quotes from our colleagues and collaborators for field and research equipment of which we have to report to UBC. This section describes the necessary steps and tips in order to create and file POs via WorkDay.

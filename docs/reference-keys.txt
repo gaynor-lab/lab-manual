@@ -83,6 +83,7 @@ planning
 field-safety
 field-safety-plans
 first-aid
+preparing-for-the-field
 travel-insurance-medical-care
 animal-care-and-use
 gorongosa-national-park-mozambique
