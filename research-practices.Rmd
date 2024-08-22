@@ -23,7 +23,7 @@ By the time of completion, each project should have an easily found README text 
 Data used in support of your projects should be:
 
 * Saved in appropriate, non-proprietary format with accompanying metadata
-* Either in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a 'snapshot' version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation. 
+* Either in a public archive (e.g., the github repo or another public archive, like [Borealis](https://borealisdata.ca/)), or if data is proprietary, a 'snapshot' version of the data used in the project should be saved in a private repository accessible to lab members.
 * Linked and briefly described in the project README.
 
 The average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. *Include information on how to do this* 
