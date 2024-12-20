@@ -54,6 +54,9 @@ writing-and-reading-practices
 writing-process
 reference-management
 writing-checklist
+hypotheses-and-predictions
+definitions
+developing-interesting-and-feasible-projects
 figures
 funding-1
 writing-peer-reviews
@@ -78,6 +81,7 @@ poster-printing
 life-in-vancouver
 housing
 transportation
+job-boards-and-resources
 fieldwork
 planning
 field-safety
