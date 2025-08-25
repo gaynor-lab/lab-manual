@@ -73,6 +73,14 @@ All co-authors should have an opportunity to weigh in at the outline and draft s
 
 Kaitlyn and your co-authors will provide guidance on target journals and the submission process, including writing cover letters and addressing reviewer feedback.
 
+Oftentimes, when sharing your draft, your readers will leave you feedback as comments on the document. For substantive comments, you should ideally handle them as follows:
+
+a) do your best to address the comment by revising the document (if you agree)
+b) respond to the comment and let them know how you addressed it (or why you didn’t address it, if you disagree)
+c) let the person who left the original comment resolve/delete it when they review the next draft
+
+This is helpful for when people (especially Kaitlyn or your coauthors!) revisit the draft later on and see how their feedback was addressed, like a "response to reviewers." 
+
 
 ### Reference management
 
@@ -95,6 +103,46 @@ Here are some things to check for in your writing. Please cross-check this list 
 + Limit use of adverbs and "filler" words
 + Use active voice, rather than passive voice
 + Be consistent in your use of tense
+
+## Hypotheses and Predictions
+*Written by Kaitlyn*
+
+Developing good scientific hypotheses and predictions is one of the most important aspects of doing good science, and is also one of the most challenging. There is a lot of guidance out there about how to do this well, and here I am sharing one way to approach it. If it works for you, great, but it’s certainly not the only way to think about hypotheses and predictions!
+
+### Definitions
+
+A **good scientific hypothesis** arises from ecological theory. A good hypothesis is mechanistic at its core: it not only articulates an expected ecological pattern, but provides an explanation for why you expect to see that pattern (sometimes this explanation comes in a separate sentence, rather than in the “hypothesis” itself; but it should be articulated somewhere in your introduction or proposal, and lead right into your hypothesis). A good hypothesis is generalizable across systems, and is not specific to a particular place or taxon. A good hypothesis is interesting. A good hypothesis will lead to good predictions (see below). 
+
+Example: [You set up some background on how predator hunting mode and prey anti-predator defenses interact to determine the spatial responses of prey to predation risk - clearly explain the “why” behind the hypothesis.] *In this study, I will test the hypothesis that ambush predators generate predictable patterns of risk, which then shape spatial patterns of proactive prey anti-predator behavior.*
+
+A **good prediction** states what you would expect to see (often in a given study system), based on your hypothesis. A good prediction is clearly testable—you can measure and quantify the relevant variables, and use analytical approaches to quantify relationships among them. A good prediction is feasible to test.
+
+*Example: I predict that waterbuck will have larger group sizes and be more vigilant in areas with higher lion predation risk.*
+
+You may also find that you want to articulate multiple hypotheses and predictions in a single study/chapter, so you have room to clearly articulate the “why” behind your hypothesis, and the step-by-step assessment of your predictions. Sometimes they build on one another.
+
+Example:
+
+**H1: Ambush predators generate predictable patterns of risk, associated with cover that they use to surprise their prey. **
+P1: Lion kill sites are more likely to be in areas with taller grass.
+**H2: Gregarious prey species rely on conspecifics for the detection and dilution of predators.**
+P2: Waterbuck group size will be higher in areas with higher modeled lion risk.
+**H3: Prey use vigilance to detect predators, and therefore they adjust their vigilance in response to their perceived predation risk.**
+P3: Individual waterbuck will have higher vigilance in areas with higher modeled lion risk, and in smaller groups, and there will be an interaction between lion risk and group size on vigilance.
+
+Note that you may end up with a single hypothesis generating multiple predictions, or multiple hypotheses feeding into a single prediction. In the latter case, it isn’t ideal if there are multiple possible explanations for a given phenomenon, as testing the prediction will not provide clear evidence for a given hypothesis. However, you may have cases where a certain prediction will only hold IF multiple hypotheses are true—then you CAN gather evidence for multiple hypotheses at once by testing a single prediction.
+
+### Developing interesting and feasible projects
+
+The process of articulating hypotheses and predictions will allow you to ask yourself the following questions: Is my hypothesis interesting? Is my prediction feasible to test?
+
+Sometimes people start with a hypothesis like this: *I hypothesize that waterbuck avoid areas with higher lion activity.* By my definitions above, this would be a prediction, not a hypothesis. If you were to articulate the corresponding general mechanistic hypothesis, you may find it isn’t all that interesting: *Prey adjust their behavior to avoid being eaten by predators.*
+
+Sometimes people end the process without getting all the way to testable predictions: *I hypothesize that waterbuck trade off foraging opportunities with predation risk, and this trade-off varies by individual.* But then if you actually get to the testable prediction—maybe something like, *Waterbuck reduce their avoidance of areas with high lion activity when those areas also have higher-quality forage, and this interaction is strongest for animals with a higher body condition index*—you may realize that you don’t have a way to easily quantify forage quality throughout the study area at the relevant scale, nor measure the body condition of animals. (Or maybe this gets you brainstorming about how you might be able to do so!)
+
+Ideally, you are aiming for something that is both interesting, and feasible. Sometimes, you may end up with some “plan B” ideas—perhaps not the most interesting, but clearly feasible. And sometimes, you may end up with “high risk, high reward” ideas—very interesting, but perhaps not totally feasible. You should probably have a mix of these types of ideas in your early drafts of your PhD proposal.
+
+**A note**: Good **statistical hypotheses** are not the same thing as good scientific hypotheses. A good statistical null hypothesis is specific, and “boring” (it would be interesting to reject). At its core, it proposes something about a population parameter. (i.e., “The impala habitat selection beta coefficient does not vary with modeled lion activity.”) An “alternative hypothesis” in the realm of statistics would probably make for a good “prediction” as defined above.
 
 ## Figures
 
