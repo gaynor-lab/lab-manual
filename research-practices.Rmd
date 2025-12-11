@@ -104,12 +104,37 @@ Here are some things to check for in your writing. Please cross-check this list 
 + Use active voice, rather than passive voice
 + Be consistent in your use of tense
 
-## Hypotheses and Predictions
+## Developing research projects
+
+### Template for developing research ideas
+*Adapted from Joey Bernhardt and Mary O'Connor*
+
+Use this document as an outline, filling in your own text under the headings. I will encourage you to do this at the start of a new project, to help shape its direction and design.
+
+1. **Main Objective:** What is the single main objective of the research? This objective should relate to some kind of general ecological or conservation issue, and be articulated in a single concise statement. 
+
+2. **Testable hypothesis:** Your research should typically be focused around a specific testable
+hypothesis or answerable question. Ideally, hypothesis(es) should support some inference about the main objective. See below for detailed guidance on how to develop good hypotheses and predictions.
+
+3. **Methods:** Outline the methods in broad strokes, but specifically in reference to the
+evidence you will gather and produce to test predictions (above) and make inference (below). When writing, refer explicitly to the predictions.
+
++ How will hypotheses be tested (reasoning, and evidence)? General categories include experiments, observations (surveys), meta-analyses, analysis of theoretical models. Will inferences be drawn from more than one type of evidence?
++ How will data be collected and analyzed? What statistical tests and software will you use?
++ What potentially confounding factors or uncertainties are you considering
++ What resources are required? Budget for time (e.g., timeline) and for costs.
+
+4. **Results:** The 2-3 key figures or tables you will produce for your final paper. In the project development stage, sketch these figures, complete with axis labels, units etc. Draw the possible ways the data could look (likely and unlikely) and consider what you would infer if you saw each pattern (would you reject your hypotheses?). Consider a power analysis. Once in the writing phase, distill the results into 2-3 key figures/tables. Identify others as supporting, and clearly relate them in terms of how they are used to advance knowledge (hypotheses, main objective).
+
+5. **Inference and Next Steps:** How exactly do your figures (sketched above), your statistical analysis, and your logic together generate new knowledge? (specifically, by testing hypotheses in service of meeting your main objective?) If in the project development phase, consider different possible versions of the results, and how you might interpret them. Then revisit your questions – are you happy with how your hypotheses are stated, given the possible results? In the writing stage, summarize the evidence and chain of reasoning in a way that speaks directly to the hypotheses and main objective.
+
+
+### Hypotheses and predictions
 *Written by Kaitlyn*
 
 Developing good scientific hypotheses and predictions is one of the most important aspects of doing good science, and is also one of the most challenging. There is a lot of guidance out there about how to do this well, and here I am sharing one way to approach it. If it works for you, great, but it’s certainly not the only way to think about hypotheses and predictions!
 
-### Definitions
+#### Definitions
 
 A **good scientific hypothesis** arises from ecological theory. A good hypothesis is mechanistic at its core: it not only articulates an expected ecological pattern, but provides an explanation for why you expect to see that pattern (sometimes this explanation comes in a separate sentence, rather than in the “hypothesis” itself; but it should be articulated somewhere in your introduction or proposal, and lead right into your hypothesis). A good hypothesis is generalizable across systems, and is not specific to a particular place or taxon. A good hypothesis is interesting. A good hypothesis will lead to good predictions (see below). 
 
@@ -132,7 +157,7 @@ P3: Individual waterbuck will have higher vigilance in areas with higher modeled
 
 Note that you may end up with a single hypothesis generating multiple predictions, or multiple hypotheses feeding into a single prediction. In the latter case, it isn’t ideal if there are multiple possible explanations for a given phenomenon, as testing the prediction will not provide clear evidence for a given hypothesis. However, you may have cases where a certain prediction will only hold IF multiple hypotheses are true—then you CAN gather evidence for multiple hypotheses at once by testing a single prediction.
 
-### Developing interesting and feasible projects
+#### Developing interesting and feasible projects
 
 The process of articulating hypotheses and predictions will allow you to ask yourself the following questions: Is my hypothesis interesting? Is my prediction feasible to test?
 

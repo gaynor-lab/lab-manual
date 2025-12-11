@@ -94,3 +94,5 @@ gorongosa-national-park-mozambique
 logistics
 expectations-of-engagement
 output-bookdowngitbook
+developing-research-projects
+template-for-developing-research-ideas
