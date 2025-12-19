@@ -120,7 +120,7 @@ For graduate students and postdocs, plan to spend 40 hours/week actively working
 
 Graduate students may take 15 weekdays of vacation, as per [UBC policy](https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy). You are not expected to be engaged in research or in communication with the lab while you are on vacation.
 
-There is no formal system for tracking vacation, but you should let Kaitlyn know when you will be out of the office for longer than 1 day. When possible, try to align your vacations with university holiday periods (this may be necessary if you are taking or teaching courses). Please set up out-of-office notifications on e-mail and Slack.
+There is no formal system for tracking vacation, but you should let Kaitlyn know when you will be out of the office for longer than 1 day, and record these absences in the lab [Days Away](https://docs.google.com/spreadsheets/d/1q25MHybKVhlRwdPOQZ9X3AntUzTx8GPX_87hKyWkhMU/edit?gid=0#gid=0) spreadsheet. When possible, try to align your vacations with university holiday periods (this may be necessary if you are taking or teaching courses). Please set up out-of-office notifications on e-mail and Slack.
 
 ## Research integrity
 
