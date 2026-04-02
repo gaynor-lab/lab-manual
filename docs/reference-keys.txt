@@ -96,3 +96,5 @@ expectations-of-engagement
 output-bookdowngitbook
 developing-research-projects
 template-for-developing-research-ideas
+work-hours-for-postdocs-and-graduate-students
+work-hours-for-undergraduates

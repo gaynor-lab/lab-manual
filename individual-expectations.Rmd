@@ -102,19 +102,18 @@ Even if a talk is outside of your area of interest, use it as an opportunity to 
 
 ## Work schedule
 
-### Work hours
+### Work hours for postdocs and graduate students
 
-We should all set the working schedule that is the right fit for us, and it is likely that what this 'fit' is will change over the course of the time you are in the lab. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with your main collaborator to outline these. 
-
-There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. Lab members should not expect others to be available during evenings and weekends. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.
-
-#### Undergraduate timekeeping
-
-By each Monday, all undergraduates working in the lab should plan out their anticipated weekly hours that they will be working, on an individual Google form (template is [here](https://docs.google.com/spreadsheets/d/1wd4DadlbFxs_hrmIfySjMsbjggqjaFRZuUZoKYtF1z0/edit?usp=drive_link)). At the end of the week, please update this form to reflect the hours actually worked, with details about the specific tasks that were accomplished in this time. This system is not meant to micromanage, but rather exists to ensure that everybody has sufficient assigned tasks, to ensure that we contact you during the hours you plan to work, and ensure that tasks are taking the estimated amount of time (so we can adjust either our estimations or the workflow!)
-
-### Time budgeting
+Postdocs and graduate students should set the working schedule that is the right fit for you, and it is likely that what this 'fit' is will change over the course of the time you are in the lab. There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. Lab members should not expect others to be available during evenings and weekends. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.
 
 For graduate students and postdocs, plan to spend 40 hours/week actively working on research, teaching, and professional development activities. The exact breakdown of this time will depend on the nature of your appointment (e.g., TA and RA positions). Some people find that tracking hours is productive for them as it helps them keep accountable to themselves (Kaitlyn uses [Toggl](https://toggl.com) for this purpose). Others do not find this method useful. Regularly assess what works best for you.  
+
+### Work hours for undergraduates
+
+All undergraduate employees in the lab are expected to complete the work hours corresponding to their position (e.g., 10 hours/week for Work-Learn positions during winter terms, 20 hours/week for Work-Learn positions during summer terms, and 35 hours/week for summer WLIURA and NSERC USRA). For part-time employees, it is acceptable to make occasional adjustments, but you should communicate with your supervisor (e.g., graduate student or postdoc) about any changes to your schedule, and make sure that you are putting in the total hours for which you were hired over the course of the term (e.g., 150 or 300 hours for Work-Learn positions). If you wish to take vacation or days off that are not your typical days off, these should be communicated well in advance to your supervisor, and you should set up out-of-office notifications on Slack.
+
+By each Monday, all undergraduates working in the lab should plan out their anticipated weekly hours (i.e., specific times of day) that they will be working, on an individual Google form (template is [here](https://docs.google.com/spreadsheets/d/1wd4DadlbFxs_hrmIfySjMsbjggqjaFRZuUZoKYtF1z0/edit?usp=drive_link)). At the end of the week, please update this form to reflect the hours actually worked, with details about the specific tasks that were accomplished in this time. This system is not meant to micromanage, but rather exists to ensure that everybody has sufficient assigned tasks, to ensure that we contact you during the hours you plan to work, and ensure that tasks are taking the estimated amount of time (so we can adjust either our estimations or the workflow!)
+
 
 ### Vacation
 
