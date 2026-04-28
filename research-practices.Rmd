@@ -104,6 +104,28 @@ Here are some things to check for in your writing. Please cross-check this list 
 + Use active voice, rather than passive voice
 + Be consistent in your use of tense
 
+
+## Generative AI policy
+
+*Adapted from Joey Bernhardt and Mary O'Connor*
+
+Part of the work you are doing in the lab is learning how to think critically, write in your voice, develop your communication skills, and logic through problem solving. While Generative AI and large language models (LLMs) like ChatGPT, Bard, Grammarly, Copilot, etc. can help with this, they are easily used to replace “thinking” in a way that is negative to your professional development at this stage. Yet, LLMs are increasingly integrated into many technologies and can be very convenient tools for a variety of applications that are relevant to your future careers. Taking all of this together, we recognize the usefulness of these tools as well as their limitations, and contextualize that with the environmental impact of increased computing power, equitability and access issues, and general ethical questions around their use (training data sets, intellectual property, etc.).
+
+A note that UBC advocates for the use of Microsoft Copilot, as the data are all stored on Canadian servers, and your inputs are not used to train the model. UBC has an organization version of Copilot that is free for all students and faculty. You can access Copilot at https://portal.office.com/ , and be sure you are logged in with your UBC Microsoft account.
+
+### Coding
+
+Within your work in the Gaynor Lab, LLMs are acceptable to use for coding (e.g. “write a basic script to do X in R”, “what is the command to do X in bash,” “why am I getting this error,”, “what does this code do,” etc.) In fact, you are encouraged to use LLMs as a way to troubleshoot bugs and make your code more efficient. However, you should only be using generative AI or LLMs if you understand the inputs and outputs of what you are asking about, and you must indicate that you have used generative AI in any resulting publication or thesis (this is increasingly a requirement of most journals). If you do use generative AI for coding help, scrutinize each line that comes back so you can learn from the output and also criticize whether each step is actually helpful in what you want to do.
+
+### Writing and idea development
+
+The story is a bit different for writing and organizing your ideas. LLMs really stifle the creative process, and thinking about the best way to structure a paper or paragraph is how you develop new ideas and insights. ChatGPT also reinforces certain worldviews and dominant paradigms, and can constrain your thinking. It also can’t come up with original ideas, which is the whole point of our work. And then later in the writing process, if you use ChatGPT to refine your language once the ideas are all in place, it just makes you sound like a robot and takes away your voice. Therefore, LLMs should not be used to draft abstracts, manuscripts, or other technical writing products without consulting Kaitlyn. You should not be feeding data or scientific writing into an LLM. For writing, you should only use LLMs at the level of a decent spellcheck or thesaurus, but not to autocomplete sentence or revise writing beyond basic grammar. If you are ever in doubt about whether you are using an LLM in a way that is appropriate for your work here, please discuss with Kaitlyn.
+
+### Background research
+
+LLMs can also be a useful search engine, or a tool for understanding theories and concepts. If you are looking to understand the pros and cons of different analysis approaches, or understand the definition of a foundational concept in ecology, LLMs can get you to answers more quickly and concisely than traditional search engines or wading through journal databases. However, it should always be a first step, not a last step. You should always identify primary literature on the topic as well. Also, while LLMs are good for broad-strokes information, be very wary of asking them for factual information about specific events in history, people, or papers, as it hallucinates things. (I lazily asked ChatGPT to write a biography of me for a talk that I’m giving, and while most things were correct, it said that I graduated from Amherst University as an undergraduate and that I serve on the IUCN Connectivity working group, neither of which are true.) For this reason, you should never use LLMs to identify citations, examples, or experts in the field.
+
+
 ## Developing research projects
 
 ### Template for developing research ideas

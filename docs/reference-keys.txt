@@ -98,3 +98,7 @@ developing-research-projects
 template-for-developing-research-ideas
 work-hours-for-postdocs-and-graduate-students
 work-hours-for-undergraduates
+generative-ai-policy
+coding
+writing-and-idea-development
+background-research
