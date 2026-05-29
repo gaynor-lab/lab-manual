@@ -52,6 +52,35 @@ The instructions below describe how to remotely access the lab computer in the t
 
 These steps should allow remote access to the computer at any time. Make sure you are connected to the VPN each time you use the computer. Note you do not have to have Microsoft Remote Desktop open the entire time you are running code. If you have code that you know will take a long time to run, you can quit (Command/Ctrl + Q) out of Microsoft Remote Desktop and come back to it later. **Do not** sign out of the remote desktop as this will stop whatever code you are running.
 
+### Best Practices Guide for Lab Computers
+
+**Before using a lab computer/laptop:**
+
+- Check the [lab computer spreadsheet](https://docs.google.com/spreadsheets/d/19MBlxf7X3iNVqnElIZkRN5WwZQVm64E-s1tb2eR4XyI/edit?gid=0#gid=0) for device details so you know how to refer to them when scheduling time or checking them out. 
+- Choose the lowest power computer appropriate for your task
+- Once you have decided which computer/laptop to use, add your name and the device name (i.e. Wild Dog, Snow Leopard.) to the [lab computer calendar](https://calendar.google.com/calendar/u/0/r?cid=YTQ1ODdmOTU2YjZlNGIwNjAzNmU2OWYwODJlYzI1YmYyOTJjYzVmMjdlYWUwNTA2YzUxYWI1YzM1ODVhNjVkNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for your selected timeslot.
+- If you see one of the computers in the lab is available and decide to use it, still add yourself to the calendar, especially if you plan to use it longer than an hour. It saves someone a trip if they see the computer is available on the calendar and want to check it out themselves but don't know it's in use.
+
+**After using a lab computer/laptop:**
+
++ If running any programs/tasks on the computer passively on the computer, use the Slack channel (#labcomputer) to inform others. Make sure to include enough details regarding:
+  + which computer you're running it on,
+  + what task is running,
+  + roughly how long you expect it to run or when you'll be checking in on it,
+  + and if the computer can be used for other tasks in the interim.
++ If finished with a task earlier than anticipated and someone is scheduled to use the computer next, send a quick message into the Slack channel so they can know it is available sooner. 
++ At the end of the day, shut down computers that aren't running anything in the background.
++ If you are unsure whether a computer should be shut down because programs or files are still open and there is no information posted in Slack, check with the last user before powering it off.
+
+### Hard Drive etiquette
+- Refer to the [Gaynor Lab Hard Drives spreadsheet](https://docs.google.com/spreadsheets/d/14Sra-vIOHFSCRu-Q9RpVpHDT8vU8kSagFwa1OUdc5no/edit?gid=0#gid=0) to determine which hard drives are available.
+- Once you have selected a hard drive, update the “Taken out by”, “Purpose” and “Date Taken” columns in the spreadsheet.
+- If a hard drive plugged into a computer is doing active file transfer, make sure to report in the Slack channel (#labcomputer).
+- Do not leave hard drives plugged in if they aren't being used for those active tasks.
+- When removing hard drives, always use “Safely Remove Hardware and Eject Media.”. Wait for the "Safe to Remove Hardware" notification before unplugging the hard drive.
+- Once you are finished using a hard drive, update the spread sheet to let others know it is available for use and return it to its original location. 
+- Update the “Notes” column in the spreadsheet if you notice any bugs, issues, or want to include any other relevant information that would be helpful for the next user to know. 
+
 ## Finance and Purchasing
 
 We will use the [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) platform for procurement and reimbursement. 
