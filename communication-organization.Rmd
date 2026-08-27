@@ -12,7 +12,7 @@ Welcome to the Gaynor Lab! In addition to the official UBC onboarding process (o
 + Join the lab [GitHub organization](https://github.com/gaynor-lab)
 + Join the lab Slack organization
 + Write your Individual Development Plan (Kaitlyn will share template and guidance)
-+ Get your keys (discuss this with Kaitlyn); if you are in the BRC or Ponderosa E, Katie Beall will order them for you, and you'll pick the up at the UBC bookstore
++ Get your keys (discuss this with Kaitlyn); if you are in the BRC, Katie Beall will order them for you, and you'll pick the up at the UBC bookstore
 + UBC offers access to software for students and staff. If you need MS Office, GIS, etc. you can download them [here](https://it.ubc.ca/services/desktop-print-services/software-licensing/list-software-available)
 + Complete any mandatory on-boarding courses on Workday
 
