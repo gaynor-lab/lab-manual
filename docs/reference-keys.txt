@@ -104,3 +104,4 @@ writing-and-idea-development
 background-research
 best-practices-guide-for-lab-computers
 hard-drive-etiquette
+hours-tracking-and-lab-journal
