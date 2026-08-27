@@ -83,12 +83,6 @@ As of 2023, citizens of certain countries (including the United States) can obta
 
 It is your responsibility to make sure you get an appropriate visa and do not overstay it (the fees will be large!) In summary, visa regulations have changed considerably over the years, so ask your labmates and ask Miguel to put you in touch with researchers who have recently navigated the process. And update this manual with your experiences!
 
-#### Doing fieldwork {-}
-
-Our lab field vehicle will be a Toyota Land Cruiser. To conduct independent fieldwork, you will need to have a driver’s license, be comfortable driving a 4WD manual right-side-drive vehicle in muddy and rugged conditions with unpredictable wildlife, and to know the basics of changing a tyre and checking fluids. You can learn some of these skills in the field as needed (Kaitlyn did!) and will need to demonstrate your driving abilities to Scientific Services staff prior to being cleared to drive on your own. 
-
-You must be accompanied by a ranger (“fiscal” in Portuguese) and take a radio with you into the field (both provided by Scientific Services).
-
 
 #### Equipment {-}
 
@@ -112,6 +106,98 @@ You may be able to purchase and activate an eSIM card for Mozambique in advance 
 Wireless Internet speeds are adequate in Chitengo for most purposes, although you should be prepared for unexpected outages and slow-downs, particularly in the evenings when more people are streaming and video calling. Social media is blocked during the day, to facilitate work. 
 
 ATMs in the Beira airport are the easiest way to draw Mozambican currency (meticais). Millenium Bank in Vila Gorongosa has ATMs where international debit cards work, and US Dollars, Rand, and Euros can be exchanged in Beira and Chimoio. Alert your bank ahead of travel so that your account is not frozen for suspicious activity.
+
+### Field safety
+
+#### Preparing for the field {-}
+
+- Whenever you leave the park, you must write down your planned route on the whiteboard in the science building.
+- The gates around Chitengo are closed from dusk to dawn. You need to communicate with the Research Manager if you’d like to be out during this period (for stargazing, late for a sundowner, early morning fieldwork, etc).
+- It is a good general practice to make a checklist of essential items needed for fieldwork, and check that you have all of them every single morning before leaving camp
+- Always carry a first aid kit with you in the field.
+- Always carry a radio and Garmin InReach with you when you go into the field.
+- On a daily basis, confirm you have everything that should be in the car - winch remotes, tire jack, recovery rope.
+- It is crucial to bring enough water: bring more than you think you need, keep extra water in the truck. Same with food: bring snacks every day and keep some in the truck. If you are planning to be far from camp, consider bringing lunch for your group (including the ranger) so that there’s no risk of missing lunch
+- Many plants have thorns, so it’s a good idea to have appropriate footwear (thick soled hiking boots), long socks, long pants and long sleeves
+- Wear sunscreen, hats, and sunglasses to protect from the sun.
+
+#### In the field {-}
+
+- First and foremost, follow the ranger's guidance and recommendations. But also remember that they are humans, and you need to also rely on your own common sense. If something feels risky at any point, communicate that to the group, and we will not do it. No field tasks are worth putting safety at risk
+- Do not do any fieldwork that requires leaving the vehicle without a ranger. If a ranger isn’t available that day, plan to work on activities in camp or from the vehicle.
+- Never drive alone.
+- Be on the lookout for snakes while hiking. They are not common, but there are several extremely venomous species, including mambas and cobras.
+- When walking in the field, always be looking and listening for wildlife. Do not count on others for this. Watch where you step!
+- Always stay within eyesight of others when in the field.
+- Remember where you left your vehicle. If you parked off-road, take a waypoint on your GPS device so that you can navigate back to it. Do not count on the ranger to remember—emergencies happen, and rangers sometimes (rarely) get lost.
+- Car keys should be kept in the driver’s backpack in a zipped pocket or clipped inside bag. Be sure that everyone in your party knows where the car keys are.
+
+#### Communication {-}
+
+- Download the Gaia GPS app on your phone. It’s very useful for navigation and data recording, but not for contacting people in emergencies.
+- If you have an eSIM, you will likely have service in some parts of the park, but not others, so it can be helpful but is not sufficient. Similarly, the rangers have phones with service in some areas of the park.
+- Radios are stored in the Research Manager office. Channel 8 is science and channel 16 is simplex. We are currently using 16 for all park communication. Only researchers and command room can hear science. Everyone (including tourism) can hear simplex. Command room hears all communications but doesn’t respond unless directly addressed. Say dois zero um (201) to speak to command room. To speak to an individual person, hold button on left, wait a beat, then say “Name, name, name, do you copy?” If you need emergency help, say “all stations” or “command room 201”
+- We have a Garmin inReach Mini which allows for SMS communication via satellite. It is kept in Sofia’s field bag. You can send a set of preset messages (or customized messages with a character count). Test functionality monthly. Contact Research Manager (Dadzie Tarua in 2026 at +258 875901507). Download Garmin messenger app and connect to account
+
+#### In Chitengo {-}
+
+- Make sure to have a flashlight/cell phone with you for walking around at night, and it is usually a good idea to have a buddy with you (lions in Chitengo are not uncommon)
+- Tap water in Chitengo is potable.
+- Malaria is prevalent in the area, so take malaria prophylaxis.
+- Keep your cabin locked at all times to prevent baboons from entering.
+- Be vigilant of baboons when walking around, and do not walk with food visibly in your hands if there are baboons around.
+
+
+### Field vehicle
+
+Our lab field vehicle is a Toyota Land Cruiser. To drive, you will need to have a driver’s license, be comfortable driving a 4WD manual right-side-drive vehicle in muddy and rugged conditions with unpredictable wildlife, and to know the basics of changing a tyre and checking fluids. You can learn some of these skills in the field as needed (Kaitlyn did!) and will need to demonstrate your driving abilities to Scientific Services staff prior to being cleared to drive on your own. 
+
+#### Vehicle safety {-}
+
+- Ensure regular maintenance of the vehicle. The mechanics in Chitengo are fantastic and very helpful.
+- Upon arrival, request a lesson from Research Manager for changing tires and using the winch.
+
+#### Using the winch {-}
+
+- Leave the car on (but note that it uses battery and will drain your battery eventually).
+- Attach the black cord with 4 metal prongs to the outlet on the front, on the bull bar (above the first A on the license plate)
+- Turn up the revs of the engine (on the left side of the steering wheel) when you're using the winch
+- Use the remote: "out" loosens the cord and lets you pull it out
+- Wrap the winch carabineer around the tree or whatever you're using to pull yourself out. Make sure the tree is strong enough to pull you out. Make sure the black cord isn't wrapped around the blue winch rope
+- Release the parking brake before starting to use the winch. Then press "in" to pull the car forward.
+- Loosen the blue rope to be able to unwrap it from the tree - using "out"
+- Wrap the cord back up, with one person holding it to guide it back on neatly. You need to go slowly at the end to make sure you can attach the carabineer back to the holder
+- We have a wireless remote as well as another option - use this first to avoid wrapping cord and rope together. This will eventually die
+
+
+#### Using the tow rope {-}
+
+- Attach the big silver ring with the red bolt to the red hooking point on the vehicle, on the passenger side (below the F on the license plate). Don't fully screw it right, or it won't come undone after you've done your work
+- Make sure the recovery rope is in the hook.
+- The orange rope is then your attachment to the other car - use the other ring.
+- Hooking points are usually red.
+
+
+#### Four wheel drive {-}
+
+- You will normally be in high 2. Front wheels don't have traction, they're just spinning.
+- High 4 engages all four wheels. It useful for sand (Low 4 will be too slow for sand)
+- Low 4 and first gear is the go-to when you're in mud (this is adjusted using the lever next to the gear shifter). Low is the most powerful gear you have - you try this before you use the winch. For steep and rocky terrain, use low 4 in second gear 
+
+
+#### Tire change {-}
+
+- Get the spare tire out first, so you're not climbing in the back with the jack under the car.
+The jack is attached in the passenger backseat. You need to loosen it to get it out (it should be tight when driving to not be noisy).
+- Make sure the parking brake is on, and you have something in front of one of the tires - think about where the car might fall.
+- Use a tire wrench to loosen the bolts first - don't loosen them around the circle, do one and then do the one across from it, and so on. (Also make sure you tighten everything together at the end.) Don’t remove the bolts before you lift the tire.
+- Assemble the two-part rod with a hook on the end for raising the jack. There's also a handle to attach to make it easier to spin.
+- Place the jack somewhere flat and metal. You can feel with your hand to find a good spot - Miguel put it on the inside of the tire, in between (front and back) the springs (when we were thinking about replacing a back tire). Don't put the jack on the springs
+- Lift the vehicle up with the jack (clockwise to lift), with some room to spare so you can easily manipulate the tire
+- Remove the tire and replace with the spare tire.
+- After resting the tire in place, you can spin the tire to get the holes in the right spot
+- Tighten the bolts with your hand first, then with the tool.
+- Lower the vehicle back down and remove the jack.
 
 
 ### Expectations of engagement

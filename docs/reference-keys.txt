@@ -104,4 +104,9 @@ writing-and-idea-development
 background-research
 best-practices-guide-for-lab-computers
 hard-drive-etiquette
+<<<<<<< HEAD
 hours-tracking-and-lab-journal
+=======
+field-safety-1
+field-vehicle
+>>>>>>> ed5940739918192c0e670c0875b089bf8cef970d
