@@ -110,3 +110,7 @@ hours-tracking-and-lab-journal
 field-safety-1
 field-vehicle
 >>>>>>> ed5940739918192c0e670c0875b089bf8cef970d
+work-expectations-for-postdocs-and-graduate-students
+work-expectations-for-undergraduates
+expectations-for-hours-tracking
+expectations-for-lab-journals
