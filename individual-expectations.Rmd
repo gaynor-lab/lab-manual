@@ -110,18 +110,17 @@ For graduate students and postdocs, plan to spend 40 hours/week actively working
 
 All undergraduate employees in the lab are expected to complete the work hours corresponding to their position (e.g., 10 hours/week for Work-Learn positions during winter terms, 20 hours/week for Work-Learn positions during summer terms, and 35 hours/week for summer WLIURA and NSERC USRA). For part-time employees, it is acceptable to make occasional adjustments, but you should communicate with your supervisor (e.g., graduate student or postdoc) about any changes to your schedule, and make sure that you are putting in the total hours for which you were hired over the course of the term (e.g., 150 or 300 hours for Work-Learn positions). If you wish to take vacation or days off that are not your typical days off, these should be communicated well in advance to your supervisor, and you should set up out-of-office notifications on Slack.
 
-By each Monday, all undergraduates working in the lab should plan out their anticipated weekly hours (i.e., specific times of day) that they will be working, on an individual Google form (template is [here](https://docs.google.com/spreadsheets/d/1wd4DadlbFxs_hrmIfySjMsbjggqjaFRZuUZoKYtF1z0/edit?usp=drive_link)). At the end of the week, please update this form to reflect the hours actually worked, with details about the specific tasks that were accomplished in this time. This system is not meant to micromanage, but rather exists to ensure that everybody has sufficient assigned tasks, to ensure that we contact you during the hours you plan to work, and ensure that tasks are taking the estimated amount of time (so we can adjust either our estimations or the workflow!)
-
-#### Hours Tracking and Lab Journal
-
 You are expected to maintain an up-to-date [hours tracking sheet](https://docs.google.com/spreadsheets/d/1wd4DadlbFxs_hrmIfySjMsbjggqjaFRZuUZoKYtF1z0/edit?usp=sharing) and lab journal, to be shared with your direct supervisor(s). These documents are meant to help us manage your task assignments and workload, and create a record of your work for future reference. 
 
 **Expectations for hours tracking**
 
-+ Update hours tracking spreadsheet each time you work. This prevents you from having to estimate your hours later when submitting your time. 
++ Update your hours plan at the start of the week, so that your supervisors know when to expect you to be working.
++ Update hours tracking spreadsheet each time you work, if your worked hours differ from plans. This prevents you from having to estimate your hours later when submitting your time. 
 + Include general tasks completed in the tasks column. Keep this task column clear and concise, so that a supervisor could understand the tasks completed based on hour tracking spreadsheets alone, without needing to go to your lab journal to cross-reference. 
 
 **Expectations for lab journals**
+
+Your lab journal should be a Google Doc shared with your supervisor(s). Each time you work, update the journal with notes about your tasks and progress.
 
 + Include the date for each entry, so journal is easy to follow chronologically.
 + Update lab journal each time you work.
@@ -139,25 +138,6 @@ You are expected to maintain an up-to-date [hours tracking sheet](https://docs.g
 + Document your thought process, especially when working through complex task.
   + Try to document things in whatever format works best for you, but keep in mind that detailed notes can be very helpful when returning to a task or issue after some time. Good documentation can prevent you from having to spend time figuring out the same problem again. 
 
-**Example lab journal entry**
-
-While you do not have to follow this format exactly, here is an example of a standard lab journal entry: 
-
-"2026-07-27
-
-Traptagger 
-
-+ Worked on species classification.
-+ There is a new update: we can now specify user permissions directly within the invitation form.
-
-Worked on master backups spreadsheet.
-
-+ Time offset issue with M08 in S10. The camera images start on 2015-01-01 but the camera was set up on 2023-09-01. Pick up from here next time, still need to calculate time offset.
-
-Notes for upcoming meeting: 
-
-+ What are some tips for distinguishing between kudu and nyala?"
-	
 
 ### Vacation
 
