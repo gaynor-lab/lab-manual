@@ -114,3 +114,5 @@ work-expectations-for-postdocs-and-graduate-students
 work-expectations-for-undergraduates
 expectations-for-hours-tracking
 expectations-for-lab-journals
+offboarding
+reference-letters
