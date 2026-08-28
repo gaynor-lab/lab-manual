@@ -14,9 +14,17 @@ We use GitHub for managing research projects. We have a [lab GitHub organization
 
 In general, one repository should correspond to one thesis chapter/publication, although there are cases where lumping or splitting repositories makes more sense. Create your project repository as soon as you begin managing your data. 
 
-You are encouraged to regularly commit all of your code to GitHub, on a daily basis. If it works for you, treat your commit messages and GitHub issues as your lab notebook. This may feel vulnerable, especially for those learning to code, but this is a judgment-free zone and there is no better way to learn than to code collaboratively. The use of GitHub makes it very easy to share feedback with other lab members on coding and analysis.
+Consider the following points when creating and maintaining a GitHub repository:
 
-By the time of completion, each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if proprietary data). Ideally, the README should also include links to publications and presentations from the work.
++ The name should be short but informative.
++ Code for published papers will eventually need to be made public, but you may chose to create a private repository during the early stages of the work.
++ Sensitive data should not be stored on GitHub. Speak with Kaitlyn before uploading any data to github. Take advantage of .gitignore to prevent sensitive data from being uploaded to github.
++ GitHub is not designed for large file storage. If your project involves large files, you may need to find an alternative data management system. Speak with Kaitlyn about this if it is relevant for your project.
++ Files in your repository should be logically organised within folders and have easily interpretable names.
++ Ensure you have a detailed README that provides enough information for others to navigate and use your work.
++ Commit whenever you make a meaningful change to your code or data and treat your commit messages and GitHub issues as the computational equivalent of a lab notebook.
++ When documenting dependencies, include the version number alongside each package (e.g., ctmm v1.2.1). This is essential for reproducibility, as package behaviour can change between versions.
++ Set up your .gitignore file before your first commit. Files like .DS_Store and .Rhistory should be excluded from the repository.
 
 ### Data management
 
@@ -193,6 +201,16 @@ Ideally, you are aiming for something that is both interesting, and feasible. So
 
 ## Figures
 
+Figures are a deeply important aspect of the scientific process and you should craft your figures with care. Some things to keep in mind when preparing your figures include: 
+
++ Aspect ratios (is the aspect ratio appropriate for the range of the data?). 
++ Label sizes (can the axes be easily read). + Units (do all of my axes have units). 
++ Resolution (is the resolution appropriate? 600dpi tends to be a good choice). 
++ Maintain consistency across figures within a paper (e.g., same fonts, same colour scheme, same style). Switching between figures makes it unnecessarily difficult to interpret your results. 
++ Save your files as PDF, TIFF or PNGs.
+
+Colour choice is also extremely important when preparing your figures and colour palettes should be chosen with care. Always strive to produce colourblind friendly figures. 
+
 If you're looking for vector silhouettes of an organism, check out [PhyloPic](https://www.phylopic.org/)! All available for reuse. 
 
 ## Funding
@@ -224,7 +242,7 @@ Some good resources for peer review include:
 
 ### Press releases
 
-Something about press releases can go here?
+If you feel your work may be of interest to the press (i.e., you can condense the finding into a snappy headline that will be of general interest), please discuss with Kaitlyn, and she will get you in touch with UBC's press office.
 
 ### Google Scholar profiles
 

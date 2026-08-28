@@ -36,8 +36,6 @@ All lab members are expected to attend weekly, unless in the field, and to provi
 
 We will rotate note-taking responsibilities and maintain notes in the lab Google Drive folder.
 
-Summer lab meetings will have a different flavour—stay tuned!
-
 #### Prep work for lab meeting {-}
 
 The goal of lab meeting is not simply to provide updates on our research projects with one another, but rather to spend dedicated time thinking deeply about ideas as a collective. This is one of the few spaces on campus where we can meaningfully workshop our research with others, so make the most of it! Ideally, we can use the hour to discuss, rather than get up to speed. 
@@ -50,9 +48,11 @@ When sending material, always make sure to describe what you are sending and try
 
 All lab members should come to lab meeting ready to dive in. Ideally, if you are providing written comments, you should send them to the lab meeting leader in advance of lab meeting so they can review them and integrate them into their agenda.
 
-#### Giving feedback to your labmates {-}
+#### During lab meetings {-}
 
-We will share feedback respectfully and constructively. This [resource from the University of Waterloo](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/assessing-student-work/grading-and-feedback/receiving-and-giving-effective-feedback) outlines the main points of how to give and receive feedback. 
+All lab members should come to lab meeting ready to engage. Passive attendance is discouraged, and Kaitlyn may speak with you if this becomes a pattern. However, it is important to recognise that everyone should be provided the opportunity to engage. Before speaking or asking a question, take a moment to think about how much of the discussion you have already occupied and leave openings for others to speak up.
+
+Challenging one-another is an important part of the scientific process. Asking thoughtful questions trains your critical thinking skills, while defending your work prepares you for peer review, improves your scientific thinking, and helps to ensure you keep an open mind about the strengths and weaknesses of your project. Although we should be challenging one another, it is important to remember to share feedback respectfully and constructively. We all pour a lot of time, energy, and passion into our research and unnecessarily harsh comments help nobody. This [resource from the University of Waterloo](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/assessing-student-work/grading-and-feedback/receiving-and-giving-effective-feedback) outlines the main points of how to give and receive feedback. 
 
 Feedback shared in the context of lab meeting does not merit coauthorship on manuscripts, although collaborations are encouraged outside of them, and it is good practice to recognize those who gave feedback in Acknowledgement sections as relevant. 
 
@@ -93,7 +93,9 @@ Try to keep emails brief and to the point. What response do you need and by when
 
 Be prepared to follow up on an email if you haven’t had a response in 1-2 weeks. Many people are overwhelmed with emails and simply can’t keep up, so a non-response likely reflects an oversight and people will be happy for a reminder. (Continued non-response after ~3 emails likely means the person is too busy to engage at this time. Try knocking on their door or calling their office if it is important.)
 
-If there is an action item or deadline associated with your email, make it very clear (e.g. bold, included in the first line or few).
+If there is an action item or deadline associated with your email, make it very clear (e.g. bold, included in the first line or few). For example, avoid saying “Here is the draft of the paper.”, but instead say something along the lines of “Here is a draft of the the paper. It is in [early/final] stages and I am hoping for feedback on sections XX and YY, by ZZ date.”
+
+If you are sharing documents with external partners, clear any communication with Kaitlyn. This is not about micro-managing, but ensuring smooth relationships with the lab’s long-term collaborators.
 
 
 ### GitHub
@@ -116,7 +118,7 @@ For non-time-sensitive questions for Kaitlyn, add them to your agenda for your w
 
 ### Phone
 
-Maybe we could set up a lab phone line, but who uses land lines anymore? For urgent situations or emergencies, you may call or text group members’ cell phones. Please reserve this channel of communication for rare cases so that we can all maintain our work-life balance and boundaries. 
+In general, communication via phone or text message should be avoided. For urgent situations or emergencies, you may call or text a group member’s cell phone. Please reserve this form of communication for rare cases so that we can all maintain our work-life balance and boundaries. Before calling or texting a lab member for anything work-related, ask yourself if having the answer now will meaningfully change the outcome over having the answer by the next working day.
 
 ### Google Drive
 
@@ -136,3 +138,24 @@ For those of us working in the same study systems, we should take a collaborativ
 For the Gorongosa-based researchers, we have a shared, flexible research brainstorming document in the Google Drive folder. This document serves multiple purposes: not forgetting our ideas, sharing feedback on ideas, keeping track of data sets and collaborations, coming up with potential student projects, and making sure we loop each other in on projects that interest us and don’t duplicate effort. If you add an idea to the doc, please add your name, and nobody should move forward with  or "give away" an idea without checking in with the person who put it on there. We should not feel like we have to hide ideas from each other, nor that we can’t pursue an idea that someone else is also interested in. Please keep this document internal to our lab for now. I know there is no shortage of good ideas and I highly encourage cross-lab collaboration, but I want to be sure that everybody who is using this document understands the ground rules.
 
 Additionally, there will be opportunities for collaboration through co-authoring lab papers. These papers will typically be led by one lab member with some expertise in that subject and all other lab members who are interested in the topic are invited to help. These papers may be meta-analyses, systematic reviews, conceptual frameworks, or other types of research that probably wouldn't be part of a graduate thesis and can benefit from the lab's diversity of knowledge. We aim to write around one lab paper a year and expect every lab member who's interested to have the chance to lead one. We have a document in the Google Drive to record ideas for potential papers.
+
+## Offboarding
+
+Leaving the lab is an important transition and a little planning goes a long way toward ensuring your work can be continued and that you leave with everything you need. The formal offboarding process is still under development. Nonetheless, before your last day, please make sure you have done the following:
+
++ Discussed timelines with Kaitlyn. If you have papers, analyses, or other projects that are not yet complete at the time of your departure, make a clear plan with Kaitlyn for how and when these will be finished. This conversation should happen well before your last day, not on it.
++ Ensure access to your files. Make sure that all of your project files, data, and code are up to date in the lab GitHub organisation before you leave. You will retain access to your personal GitHub account and any repositories you have contributed to, but confirm with Kaitlyn that you have copies of everything you need for ongoing work after your departure.
++ Flag any barriers to project completion. If there are factors that may prevent you from completing outstanding work after you leave (e.g., loss of software access, data access restrictions, time constraints) raise these with Kaitlyn as early as possible so we can work around them together.
++ Ensure you have collected any personal belongings from the lab, and that all equipment that you have used is cleaned, in working order, clearly labeled, and stored in the proper location.
++ Your CWL account will persist after graduation as an alumni account, but access to some UBC services will change. Most notably, your UBC student email and any files stored in associated Microsoft 365 services (OneDrive, SharePoint) will be decommissioned 18 months after graduation. Before you leave, ensure you have downloaded or transferred any files you will need for ongoing work. Remote access to most UBC Library electronic resources will also be restricted after graduation, though alumni retain access to a subset of resources via the alumni UBC app. See UBC IT’s [alumni email transition](https://it.ubc.ca/projects/ubc-alumni-email-transition) page and the [UBC Library alumni resources guide](https://guides.library.ubc.ca/alumniresources) for details.
+
+### Reference letters
+
+I am always happy to serve as reference for past and present members of the lab. When asking for a letter of reference, please reach out at least three weeks before the reference is due. Writing a letter under a shorter timeline may be possible, but the quality may not be as high.
+
+To help me write the strongest possible letter, please provide the following when you reach out:
+
++ A current CV.
++ A description of the position or opportunity you are applying for, including any specific criteria or competencies that will be evaluated.
++ Any aspects of your time in the lab or your broader experience that you would like me to emphasise.
++ The submission deadline and any instructions for how the letter should be submitted.
