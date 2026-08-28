@@ -80,8 +80,9 @@ Each lab member will have a designated Google Doc (visible only to you and Kaitl
 Use UBC e-mail for sharing written (non-code) materials or for other communication that would benefit from a searchable record or longer form. 
 
 You should check your e-mail daily during the work week (M-F). If you do not expect to be able to respond to your e-mails within a day or two, set up an out-of-office reply. 
+Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times. 
 
-Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times.   
+Note: Most students have both a student and employee email addresses. You are encouraged to avoid using your employee email address. UBC provides you with your student email address for life. Your employee address is tied to your employment. This means that if your GRA runs out, you are at risk of losing access to everything associated with that email and CWL.
 
 #### E-mail etiquette
 
